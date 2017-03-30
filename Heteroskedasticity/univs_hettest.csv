@@ -1,0 +1,1506 @@
+instnm,year,unitid,fips,stateabbr,facsal_revise_cons13,intuitfees,satact
+Alabama A & M University,2007,100654,1,AL,63507.867,4072,850
+University of Alabama at Birmingham,2007,100663,1,AL,91221.352,4208,1106.366
+University of Alabama in Huntsville,2007,100706,1,AL,82830.336,5216,1120.7841
+Alabama State University,2007,100724,1,AL,68629.211,4508,784.34613
+The University of Alabama,2007,100751,1,AL,92205.617,5700,1106.451
+Athens State University,2007,100812,1,AL,75576.406,4050,
+Auburn University at Montgomery,2007,100830,1,AL,71664.047,5010,950
+Auburn University,2007,100858,1,AL,92385.398,5834,1126.281
+Jacksonville State University,2007,101480,1,AL,66017.977,4056,925.77448
+University of West Alabama,2007,101587,1,AL,58202.25,4728,865
+University of Montevallo,2007,101709,1,AL,64455.059,5794,1010
+University of North Alabama,2007,101879,1,AL,70770.789,4025,967.93488
+University of South Alabama,2007,102094,1,AL,70917.977,4822,1010
+Troy University,2007,102368,1,AL,60931.461,4264,950
+University of Alaska Anchorage,2007,102553,2,AK,72264.047,4477,1000.669
+University of Alaska Fairbanks,2007,102614,2,AK,72816.852,4573,998.5741
+University of Alaska Southeast,2007,102632,2,AK,64908.988,4445,1057.349
+Arizona State University,2007,104151,4,AZ,98893.258,4971,1086.179
+University of Arizona,2007,104179,4,AZ,97132.586,5048,1093.313
+Northern Arizona University,2007,105330,4,AZ,74615.734,4964,1074.545
+University of Arkansas at Little Rock,2007,106245,5,AR,71973.031,5725,
+University of Arkansas,2007,106397,5,AR,84719.102,6038,1178.291
+University of Arkansas at Pine Bluff,2007,106412,5,AR,52131.461,4499,780.78748
+Arkansas State University-Main Campus,2007,106458,5,AR,61720.227,6010,990
+Arkansas Tech University,2007,106467,5,AR,57350.563,4154,1049.207
+University of Arkansas at Monticello,2007,106485,5,AR,52355.059,4300,
+University of Central Arkansas,2007,106704,5,AR,62570.789,6025,1085
+Henderson State University,2007,107071,5,AR,61114.609,5378,1050
+Southern Arkansas University Main Campus,2007,107983,5,AR,57313.484,5224,949.07062
+University of Arkansas-Fort Smith,2007,108092,5,AR,60457.305,4060,1010
+California Polytechnic State University-San Luis Obispo,2007,110422,6,CA,88610.117,4689,1178.746
+California State University-Bakersfield,2007,110486,6,CA,80784.273,3714,911.1723
+California State University-Stanislaus,2007,110495,6,CA,80624.719,3330,941.02899
+California State University-San Bernardino,2007,110510,6,CA,84244.945,3455,898.9563
+California State Polytechnic University-Pomona,2007,110529,6,CA,91661.797,3278,1008.442
+California State University-Chico,2007,110538,6,CA,85574.156,3690,1012.989
+California State University-Dominguez Hills,2007,110547,6,CA,86967.414,3377,805.99902
+California State University-Fresno,2007,110556,6,CA,81180.898,3299,925.40503
+California State University-Fullerton,2007,110565,6,CA,84507.867,3342,972.06848
+California State University-East Bay,2007,110574,6,CA,87579.773,3345,897.09448
+California State University-Long Beach,2007,110583,6,CA,86310.117,3116,1005.583
+California State University-Los Angeles,2007,110592,6,CA,89197.758,3332,873.26477
+California State University-Northridge,2007,110608,6,CA,85528.094,3350,922.50342
+California State University-Sacramento,2007,110617,6,CA,84123.594,3558,962.84332
+University of California-Berkeley,2007,110635,6,CA,127120.23,7165,1299.286
+University of California-Davis,2007,110644,6,CA,108197.76,8124,1142.094
+University of California-Irvine,2007,110653,6,CA,108164.05,7556,1171.157
+University of California-Los Angeles,2007,110662,6,CA,123979.77,7165,1274.552
+University of California-Riverside,2007,110671,6,CA,99848.313,7355,1028.311
+University of California-San Diego,2007,110680,6,CA,112070.79,7456,1233.7629
+University of California-Santa Barbara,2007,110705,6,CA,113105.62,7896,1162.451
+University of California-Santa Cruz,2007,110714,6,CA,99546.07,7646,1130.178
+California Maritime Academy,2007,111188,6,CA,78129.211,3728,
+Humboldt State University,2007,115755,6,CA,84569.664,3843,1026.004
+San Diego State University (Combined Campuses),2007,122409,6,CA,90732.586,3428,1039.884
+San Francisco State University,2007,122597,6,CA,90475.281,3456,994.36963
+San Jose State University,2007,122755,6,CA,91084.273,3632,991.07727
+Sonoma State University,2007,123572,6,CA,83656.18,3946,1017.651
+Adams State University,2007,126182,8,CO,56979.777,3466,932.77979
+University of Colorado Denver,2007,126562,8,CO,80062.922,5932,1040.743
+University of Colorado Colorado Springs,2007,126580,8,CO,69852.813,5726,1045.407
+University of Colorado Boulder,2007,126614,8,CO,96864.047,6636,1167.236
+Colorado School of Mines,2007,126775,8,CO,90601.125,10050,1226.599
+Colorado State University-Fort Collins,2007,126818,8,CO,87916.852,5419,1113.0031
+Fort Lewis College,2007,127185,8,CO,58501.125,6448,979.79742
+Colorado Mesa University,2007,127556,8,CO,54906.742,4064,935.38593
+Metropolitan State University of Denver,2007,127565,8,CO,63871.91,3079,973.24463
+University of Northern Colorado,2007,127741,8,CO,65716.852,4313,1031.912
+Colorado State University-Pueblo,2007,128106,8,CO,61359.551,4156,963.15387
+Western State Colorado University,2007,128391,8,CO,59223.598,3586,1002.025
+Central Connecticut State University,2007,128771,9,CT,82949.438,6734,1010
+Charter Oak State College,2007,128780,9,CT,,3159,
+University of Connecticut,2007,129020,9,CT,108417.98,8852,1186.272
+Eastern Connecticut State University,2007,129215,9,CT,78625.844,6961,1015
+Southern Connecticut State University,2007,130493,9,CT,82994.383,6623,935
+Western Connecticut State University,2007,130776,9,CT,86239.328,6624,1000
+Delaware State University,2007,130934,10,DE,72010.117,6146,853.71338
+University of Delaware,2007,130943,10,DE,101447.2,8150,1170
+University of the District of Columbia,2007,131399,11,DC,79138.203,,
+University of Central Florida,2007,132903,12,FL,79893.258,3562,1157.097
+Florida Agricultural and Mechanical University,2007,133650,12,FL,74773.031,3274,
+Florida Atlantic University,2007,133669,12,FL,76757.305,2694,1009.098
+Florida International University,2007,133951,12,FL,87842.695,3130,1089.1281
+Florida State University,2007,134097,12,FL,85100,3355,1174.069
+University of Florida,2007,134130,12,FL,92719.102,3257,1243.698
+University of North Florida,2007,136172,12,FL,67478.656,2793,1060.548
+St Petersburg College,2007,137078,12,FL,67913.484,2091,
+University of South Florida-Main Campus,2007,137351,12,FL,82676.406,3457,1128.188
+The University of West Florida,2007,138354,12,FL,71021.352,2860,1067.541
+Albany State University,2007,138716,13,GA,58878.652,3470,890.02252
+Armstrong Atlantic State University,2007,138789,13,GA,60743.82,3424,996.73669
+Clayton  State University,2007,139311,13,GA,65442.699,3582,961.64673
+Columbus State University,2007,139366,13,GA,62246.07,3514,979.5
+Dalton State College,2007,139463,13,GA,57486.52,1952,
+Fort Valley State University,2007,139719,13,GA,57134.832,3558,932.32672
+Georgia Institute of Technology-Main Campus,2007,139755,13,GA,113394.38,5305,1320.913
+Georgia Southwestern State University,2007,139764,13,GA,60464.047,3546,957.15039
+Georgia College & State University,2007,139861,13,GA,60167.418,4750,1093.708
+Georgia Southern University,2007,139931,13,GA,68037.078,4082,1053.791
+Georgia State University,2007,139940,13,GA,79446.07,5484,1072.077
+University of Georgia,2007,139959,13,GA,93086.516,5622,1212.988
+Kennesaw State University,2007,140164,13,GA,66062.922,3806,1051.615
+Savannah State University,2007,140960,13,GA,61785.395,3486,846.63977
+Southern Polytechnic State University,2007,141097,13,GA,65547.195,3872,1094.327
+Valdosta State University,2007,141264,13,GA,61935.957,4038,1010.153
+University of West Georgia,2007,141334,13,GA,63577.527,3918,982.97589
+University of Hawaii at Hilo,2007,141565,15,HI,74983.148,3676,958.46472
+University of Hawaii at Manoa,2007,141574,15,HI,94424.719,5390,1087.007
+University of Hawaii-West Oahu,2007,141981,15,HI,72049.438,3226,
+Boise State University,2007,142115,16,ID,64853.934,4410,1018.667
+Idaho State University,2007,142276,16,ID,59934.832,4400,
+University of Idaho,2007,142285,16,ID,76714.609,4410,1063.722
+Lewis-Clark State College,2007,142328,16,ID,53962.922,4092,938.28772
+Chicago State University,2007,144005,17,IL,68178.656,7730,910
+Eastern Illinois University,2007,144892,17,IL,69692.133,7990,990
+Governors State University,2007,145336,17,IL,73788.766,4794,
+University of Illinois at Chicago,2007,145600,17,IL,92805.617,10546,1090
+University of Illinois at Urbana-Champaign,2007,145637,17,IL,102808.99,11130,1287.8719
+Illinois State University,2007,145813,17,IL,72259.555,9019,1110
+Northern Illinois University,2007,147703,17,IL,74812.359,8588,1050.953
+Northeastern Illinois University,2007,147776,17,IL,63983.148,5641,890
+University of Illinois at Springfield,2007,148654,17,IL,68147.195,6348,1050.799
+Southern Illinois University Carbondale,2007,149222,17,IL,68737.078,8899,1009.519
+Southern Illinois University Edwardsville,2007,149231,17,IL,67548.313,7033,1050
+Western Illinois University,2007,149772,17,IL,71249.438,8079,990
+Ball State University,2007,150136,18,IN,66173.031,7212,1037.5551
+Indiana University-Purdue University-Fort Wayne,2007,151102,18,IN,65529.215,5681,965.93921
+Indiana University-Purdue University-Indianapolis,2007,151111,18,IN,76828.094,6850,981.39313
+University of Southern Indiana,2007,151306,18,IN,61677.527,4458,943.20367
+Indiana State University,2007,151324,18,IN,65596.633,6812,937.45398
+Indiana University-Kokomo,2007,151333,18,IN,63321.348,5325,942
+Indiana University-South Bend,2007,151342,18,IN,59815.73,5490,940.93298
+Indiana University-Bloomington,2007,151351,18,IN,97014.609,7837,1152.308
+Indiana University-Northwest,2007,151360,18,IN,65389.891,5398,899.91748
+Indiana University-Southeast,2007,151379,18,IN,69544.945,5375,946.50568
+Indiana University-East,2007,151388,18,IN,60383.148,5292,916.9502
+Purdue University-Calumet Campus,2007,152248,18,IN,66016.852,5757,905
+Purdue University-North Central Campus,2007,152266,18,IN,63762.922,5817,926.21991
+Iowa State University,2007,153603,19,IA,88238.203,6161,1133.0179
+University of Iowa,2007,153658,19,IA,102068.54,6293,1149.293
+University of Northern Iowa,2007,154095,19,IA,72060.672,6190,1089.1639
+Emporia State University,2007,155025,20,KS,62569.664,3926,1010
+Fort Hays State University,2007,155061,20,KS,60740.449,2685,1010
+University of Kansas,2007,155317,20,KS,92048.313,6600,1125
+Kansas State University,2007,155399,20,KS,77732.586,6235,1050
+Pittsburg State University,2007,155681,20,KS,65619.102,4060,970
+Washburn University,2007,156082,20,KS,73503.375,5636,1030
+Wichita State University,2007,156125,20,KS,76085.391,4804,1089.724
+Eastern Kentucky University,2007,156620,21,KY,67749.438,6142,970
+Kentucky State University,2007,157058,21,KY,59966.293,5320,824.30212
+University of Kentucky,2007,157085,21,KY,88902.25,7096,1096.3361
+University of Louisville,2007,157289,21,KY,87022.477,6940,1112.301
+Morehead State University,2007,157386,21,KY,62433.707,5280,970.40613
+Murray State University,2007,157401,21,KY,68660.672,5418,1030
+Northern Kentucky University,2007,157447,21,KY,68840.453,5952,990.59589
+Western Kentucky University,2007,157951,21,KY,66522.477,6416,988.46228
+Grambling State University,2007,159009,22,LA,63583.148,3622,806.03192
+Louisiana State University-Alexandria,2007,159382,22,LA,54432.586,3159,950
+Louisiana State University and Agricultural & Mechanical College,2007,159391,22,LA,86024.719,4543,1166.692
+Louisiana State University-Shreveport,2007,159416,22,LA,63504.496,3520,1029.207
+Louisiana Tech University,2007,159647,22,LA,67842.695,4622,1050
+McNeese State University,2007,159717,22,LA,64746.07,3262,990
+University of New Orleans,2007,159939,22,LA,72503.375,3984,1037.024
+Nicholls State University,2007,159966,22,LA,58407.867,3595,990
+University of Louisiana-Monroe,2007,159993,22,LA,63621.348,3607,1009.267
+Northwestern State University of Louisiana,2007,160038,22,LA,61911.238,3713,971.24432
+Southeastern Louisiana University,2007,160612,22,LA,62087.641,3561,990
+Southern University and A & M College,2007,160621,22,LA,62483.148,3666,870
+Southern University at New Orleans,2007,160630,22,LA,54348.316,2970,
+University of Louisiana at Lafayette,2007,160658,22,LA,76671.914,3402,1030
+University of Maine at Augusta,2007,161217,23,ME,63673.035,5985,
+University of Maine at Farmington,2007,161226,23,ME,61462.922,7157,
+University of Maine at Fort Kent,2007,161235,23,ME,58224.719,5753,
+University of Maine at Machias,2007,161244,23,ME,56549.438,5770,949.75958
+University of Maine,2007,161253,23,ME,82531.461,8330,1068.0699
+Maine Maritime Academy,2007,161299,23,ME,,8805,
+University of Maine at Presque Isle,2007,161341,23,ME,61071.91,5740,
+University of Southern Maine,2007,161554,23,ME,79680.898,6970,980.48657
+University of Baltimore,2007,161873,24,MD,103711.23,6934,1040
+Bowie State University,2007,162007,24,MD,70949.438,5939,870
+Coppin State University,2007,162283,24,MD,69376.406,4980,755
+Frostburg State University,2007,162584,24,MD,72266.297,6550,954.53528
+University of Maryland-University College,2007,163204,24,MD,59864.047,5640,
+University of Maryland-Baltimore County,2007,163268,24,MD,89767.414,8708,1182.9871
+University of Maryland-College Park,2007,163286,24,MD,109933.71,7969,1275
+University of Maryland Eastern Shore,2007,163338,24,MD,69377.531,5988,814.14832
+Morgan State University,2007,163453,24,MD,71028.094,6318,891.51208
+Salisbury University,2007,163851,24,MD,71468.539,6412,1101.88
+St Mary's College of Maryland,2007,163912,24,MD,71333.711,11989,1230
+Towson University,2007,164076,24,MD,71726.969,7234,1080
+Bridgewater State University,2007,165024,25,MA,72966.297,6033,1009.486
+Fitchburg State University,2007,165820,25,MA,71976.406,5992,992.85138
+Framingham State University,2007,165866,25,MA,70901.125,5799,1030
+University of Massachusetts-Lowell,2007,166513,25,MA,105903.38,8731,1055
+University of Massachusetts Amherst,2007,166629,25,MA,98796.633,9921,1134.181
+University of Massachusetts-Boston,2007,166638,25,MA,92734.836,8837,1000
+Massachusetts Maritime Academy,2007,166692,25,MA,78112.359,7113,
+Massachusetts College of Liberal Arts,2007,167288,25,MA,76039.328,6168,996.72699
+Salem State University,2007,167729,25,MA,72971.914,6210,965
+University of Massachusetts-Dartmouth,2007,167987,25,MA,91058.43,8592,1047.672
+Westfield State University,2007,168263,25,MA,69857.305,6209,1010.352
+Worcester State University,2007,168430,25,MA,74387.641,5864,1006.299
+Central Michigan University,2007,169248,26,MI,75719.102,9120,1030.504
+Eastern Michigan University,2007,169798,26,MI,78002.25,7490,995.0351
+Ferris State University,2007,169910,26,MI,72430.336,7668,990
+Grand Valley State University,2007,170082,26,MI,65819.102,7240,1110
+Lake Superior State University,2007,170639,26,MI,61929.215,7246,990
+University of Michigan-Ann Arbor,2007,170976,26,MI,99760.672,10447,1308.313
+Michigan State University,2007,171100,26,MI,98082.023,9690,1142.899
+Michigan Technological University,2007,171128,26,MI,79998.875,9829,1167.019
+University of Michigan-Dearborn,2007,171137,26,MI,83166.297,7519,1090
+University of Michigan-Flint,2007,171146,26,MI,68630.336,6966,1010.8
+Northern Michigan University,2007,171456,26,MI,69505.617,6709,1030
+Oakland University,2007,171571,26,MI,78396.633,7575,1010
+Saginaw Valley State University,2007,172051,26,MI,69579.773,6258,990
+Wayne State University,2007,172644,26,MI,89776.406,7844,970
+Western Michigan University,2007,172699,26,MI,80983.148,7260,1050
+Bemidji State University,2007,173124,27,MN,70161.797,6738,
+Minnesota State University-Mankato,2007,173920,27,MN,72042.695,6050,1030
+Metropolitan State University,2007,174020,27,MN,71055.055,5262,
+University of Minnesota-Twin Cities,2007,174066,27,MN,103028.09,9598,1212.259
+University of Minnesota-Crookston,2007,174075,27,MN,60693.258,8821,964.33069
+University of Minnesota-Duluth,2007,174233,27,MN,71402.25,9093,1072.194
+University of Minnesota-Morris,2007,174251,27,MN,65966.297,9331,1147.6689
+Minnesota State University Moorhead,2007,174358,27,MN,67860.672,5948,1009.241
+Saint Cloud State University,2007,174783,27,MN,72659.555,5955,1010
+Southwest Minnesota State University,2007,175078,27,MN,69958.43,6518,1010
+Winona State University,2007,175272,27,MN,69764.047,7324,1050
+Alcorn State University,2007,175342,28,MS,59815.73,4324,869.60608
+Delta State University,2007,175616,28,MS,58820.227,4248,950
+Jackson State University,2007,175856,28,MS,63395.508,4476,870
+University of Mississippi,2007,176017,28,MS,79500,4932,1064.073
+Mississippi University for Women,2007,176035,28,MS,55214.609,4209,970.83331
+Mississippi Valley State University,2007,176044,28,MS,57594.383,4467,805
+Mississippi State University,2007,176080,28,MS,77028.094,4978,1085
+University of Southern Mississippi,2007,176372,28,MS,69624.719,4914,1010.926
+University of Central Missouri,2007,176965,29,MO,65783.148,5104,1030
+Harris-Stowe State University,2007,177551,29,MO,53374.156,4142,
+Lincoln University,2007,177940,29,MO,57257.305,4816,
+Missouri Southern State University,2007,178341,29,MO,64242.699,4006,1030
+Missouri Western State University,2007,178387,29,MO,61739.328,5026,
+University of Missouri-Columbia,2007,178396,29,MO,79112.359,7603,1167.694
+University of Missouri-Kansas City,2007,178402,29,MO,76156.18,7450,1115.165
+Missouri University of Science and Technology,2007,178411,29,MO,87957.305,8085,1264.031
+University of Missouri-St Louis,2007,178420,29,MO,72619.102,8264,1090
+Truman State University,2007,178615,29,MO,65038.203,6432,1245
+Northwest Missouri State University,2007,178624,29,MO,61932.586,5193,1049.774
+Southeast Missouri State University,2007,179557,29,MO,63280.898,5925,1030.97
+Missouri State University-Springfield,2007,179566,29,MO,65637.078,5988,1090.843
+Montana State University Billings,2007,180179,30,MT,58216.855,5130,1010.751
+Montana Tech of the University of Montana,2007,180416,30,MT,61016.855,5640,1043.528
+Montana State University,2007,180461,30,MT,71042.695,5749,1106.959
+The University of Montana,2007,180489,30,MT,69286.516,5141,1055.863
+Montana State University-Northern,2007,180522,30,MT,52456.18,4840,905.9649
+The University of Montana-Western,2007,180692,30,MT,49674.156,4213,
+Chadron State College,2007,180948,31,NE,57232.586,4340,
+University of Nebraska at Kearney,2007,181215,31,NE,65617.977,5098,1029.468
+University of Nebraska at Omaha,2007,181394,31,NE,74615.734,5390,1069.574
+University of Nebraska-Lincoln,2007,181464,31,NE,89175.281,6216,1148.968
+Peru State College,2007,181534,31,NE,62098.879,4428,
+Wayne State College,2007,181783,31,NE,62204.496,4322,
+University of Nevada-Las Vegas,2007,182281,32,NV,94123.594,4201,1016.633
+University of Nevada-Reno,2007,182290,32,NV,94607.867,4128,1047.052
+Great Basin College,2007,182306,32,NV,68056.18,1772,
+University of New Hampshire-Main Campus,2007,183044,33,NH,90408.992,11070,1115
+Keene State College,2007,183062,33,NH,76975.281,8298,990
+University of New Hampshire at Manchester,2007,183071,33,NH,77298.875,8595,1015
+Plymouth State University,2007,183080,33,NH,75350.563,7944,949.03058
+Granite State College,2007,183257,33,NH,,5523,
+Rowan University,2007,184782,34,NJ,90982.023,10068,1105
+New Jersey City University,2007,185129,34,NJ,95091.016,8155,920
+Kean University,2007,185262,34,NJ,96050.563,8505,915
+Montclair State University,2007,185590,34,NJ,97685.398,8895,1000
+New Jersey Institute of Technology,2007,185828,34,NJ,111189.89,11350,1130
+Ramapo College of New Jersey,2007,186201,34,NJ,94350.563,9965,1155
+Rutgers University (Combined Campuses),2007,186380,34,NJ,110010.94,10686,1185
+The Richard Stockton College of New Jersey,2007,186876,34,NJ,90292.133,9697,1092.153
+Thomas Edison State College,2007,187046,34,NJ,,4397,
+The College of New Jersey,2007,187134,34,NJ,90332.586,11307,1235
+William Paterson University of New Jersey,2007,187444,34,NJ,100112.36,9996,975
+Eastern New Mexico University-Main Campus,2007,187648,35,NM,58596.629,3156,933.24323
+New Mexico Highlands University,2007,187897,35,NM,54906.742,2536,
+New Mexico Institute of Mining and Technology,2007,187967,35,NM,73549.438,4104,1198.983
+University of New Mexico-Main Campus,2007,187985,35,NM,85202.25,4571,1036.703
+New Mexico State University-Main Campus,2007,188030,35,NM,74155.055,4452,956.0929
+Northern New Mexico College,2007,188058,35,NM,51026.969,1668,
+Western New Mexico University,2007,188304,35,NM,56011.238,3223,
+CUNY Bernard M Baruch College,2007,190512,36,NY,101070.79,4320,1115
+CUNY Brooklyn College,2007,190549,36,NY,89082.023,4381,1040
+CUNY College of Staten Island,2007,190558,36,NY,83580.898,4328,970
+CUNY City College,2007,190567,36,NY,96341.578,4279,995
+CUNY Graduate School and University Center,2007,190576,36,NY,122570.79,2165,
+CUNY Hunter College,2007,190594,36,NY,92034.836,4349,1080
+CUNY John Jay College of Criminal Justice,2007,190600,36,NY,86225.844,4279,940
+CUNY Lehman College,2007,190637,36,NY,87141.578,4290,905
+CUNY Medgar Evers College,2007,190646,36,NY,83430.336,4252,
+CUNY New York City College of Technology,2007,190655,36,NY,79273.031,4289,
+CUNY Queens College,2007,190664,36,NY,86666.297,4397,1025
+CUNY York College,2007,190691,36,NY,83401.125,4262,850
+Fashion Institute of Technology,2007,191126,36,NY,86629.219,3732,
+SUNY College of Technology at Alfred,2007,196006,36,NY,59513.484,5459,958.28589
+SUNY College of Technology at Canton,2007,196015,36,NY,62093.258,5588,
+SUNY College of Technology at Delhi,2007,196024,36,NY,58333.707,5573,907.5
+SUNY College of Agriculture and Technology at Cobleskill,2007,196033,36,NY,64593.258,6185,1038.1949
+Farmingdale State College,2007,196042,36,NY,81176.406,5340,976.5
+Morrisville State College,2007,196051,36,NY,59352.809,5728,
+SUNY at Albany,2007,196060,36,NY,93660.672,6018,1094.327
+SUNY at Binghamton,2007,196079,36,NY,91484.273,6012,1254.957
+University at Buffalo,2007,196088,36,NY,99761.797,6218,1148.861
+Stony Brook University,2007,196097,36,NY,99928.094,5760,1180
+SUNY College of Environmental Science and Forestry,2007,196103,36,NY,82121.352,5675,1135.746
+SUNY Institute of Technology at Utica-Rome,2007,196112,36,NY,81411.234,5405,1073.089
+SUNY College at Brockport,2007,196121,36,NY,72533.711,4350,1077.344
+Buffalo State SUNY,2007,196130,36,NY,72365.172,5375,980
+SUNY College at Cortland,2007,196149,36,NY,64115.73,5450,1055
+SUNY at Fredonia,2007,196158,36,NY,67346.07,5542,1097.922
+SUNY College at Geneseo,2007,196167,36,NY,71557.305,5616,1315.682
+State University of New York at New Paltz,2007,196176,36,NY,68640.453,5390,1125.141
+SUNY College at Oneonta,2007,196185,36,NY,65484.27,5455,1078.6021
+SUNY College at Oswego,2007,196194,36,NY,68193.258,5934,1092.584
+SUNY College at Potsdam,2007,196200,36,NY,63587.641,5406,1053.814
+SUNY at Purchase College,2007,196219,36,NY,72902.25,5997,1086.723
+SUNY College at Old Westbury,2007,196237,36,NY,77610.117,5177,963.4375
+SUNY College at Plattsburgh,2007,196246,36,NY,68532.586,5407,1050
+SUNY Empire State College,2007,196264,36,NY,65898.875,4575,
+SUNY Maritime College,2007,196291,36,NY,69485.391,6049,
+Appalachian State University,2007,197869,37,NC,77610.117,4241,1117.756
+East Carolina University,2007,198464,37,NC,76505.617,4368,1019.255
+Elizabeth City State University,2007,198507,37,NC,72976.406,2898,826.68073
+Fayetteville State University,2007,198543,37,NC,70132.586,3422,849.86877
+North Carolina A & T State University,2007,199102,37,NC,82429.211,3500,872.13019
+University of North Carolina at Asheville,2007,199111,37,NC,73419.102,4045,1152.434
+University of North Carolina at Chapel Hill,2007,199120,37,NC,114532.59,5340,1285.459
+University of North Carolina at Charlotte,2007,199139,37,NC,82351.688,4153,1050.377
+University of North Carolina at Greensboro,2007,199148,37,NC,78800,4029,1031.915
+North Carolina Central University,2007,199157,37,NC,78848.313,3606,840.66882
+North Carolina State University at Raleigh,2007,199193,37,NC,95020.227,5117,1171.688
+University of North Carolina Wilmington,2007,199218,37,NC,78568.539,4399,1128.238
+University of North Carolina at Pembroke,2007,199281,37,NC,67098.875,4000,924.60541
+Winston-Salem State University,2007,199999,37,NC,77900,3300,883.33972
+Western Carolina University,2007,200004,37,NC,73732.586,4061,1000.337
+Dickinson State University,2007,200059,38,ND,55400,4773,
+Mayville State University,2007,200226,38,ND,45152.809,5438,
+Minot State University,2007,200253,38,ND,56543.82,4774,1024.934
+University of North Dakota,2007,200280,38,ND,71224.719,6060,1051.6851
+North Dakota State University-Main Campus,2007,200332,38,ND,69779.773,5985,1071.033
+Valley City State University,2007,200572,38,ND,49565.168,5846,970
+University of Akron Main Campus,2007,200800,39,OH,77457.305,8382,
+Bowling Green State University-Main Campus,2007,201441,39,OH,70207.867,9060,1011.966
+Central State University,2007,201690,39,OH,61566.293,5294,
+University of Cincinnati-Main Campus,2007,201885,39,OH,83226.969,9399,1109.394
+Cleveland State University,2007,202134,39,OH,80779.773,7945,950
+Kent State University at Salem,2007,203492,39,OH,57273.035,4770,
+Kent State University at Kent,2007,203517,39,OH,74237.078,8430,992.9267
+Miami University-Oxford,2007,204024,39,OH,81621.352,10554,1193.937
+Ohio State University-Lima Campus,2007,204671,39,OH,73186.516,5664,
+Ohio State University-Mansfield Campus,2007,204680,39,OH,70485.391,5664,
+Ohio State University-Marion Campus,2007,204699,39,OH,73206.742,5664,
+Ohio State University-Newark Campus,2007,204705,39,OH,72753.938,5664,
+Ohio State University-Main Campus,2007,204796,39,OH,103584.27,8676,1227.0551
+Ohio University-Main Campus,2007,204857,39,OH,79082.023,8907,1088.2061
+Shawnee State University,2007,205443,39,OH,62306.742,5832,
+University of Toledo,2007,206084,39,OH,75796.633,7982,
+Wright State University-Main Campus,2007,206604,39,OH,78569.664,7018,
+Youngstown State University,2007,206695,39,OH,75782.023,6721,
+Cameron University,2007,206914,40,OK,56855.059,3872,
+University of Central Oklahoma,2007,206941,40,OK,69193.258,3857,990
+East Central University,2007,207041,40,OK,60633.707,3930,950
+Langston University,2007,207209,40,OK,58406.742,3596,
+Northeastern State University,2007,207263,40,OK,60191.012,3798,970
+Northwestern Oklahoma State University,2007,207306,40,OK,54610.113,3875,970
+Oklahoma Panhandle State University,2007,207351,40,OK,42144.945,3820,890
+Oklahoma State University-Main Campus,2007,207388,40,OK,78207.867,5491,1123.995
+University of Oklahoma Norman Campus,2007,207500,40,OK,86377.531,6507,1166.616
+Rogers State University,2007,207661,40,OK,56238.203,3893,
+University of Science and Arts of Oklahoma,2007,207722,40,OK,52776.406,3240,1050
+Southeastern Oklahoma State University,2007,207847,40,OK,61494.383,3668,970
+Southwestern Oklahoma State University,2007,207865,40,OK,57753.934,3198,990
+Eastern Oregon University,2007,208646,41,OR,55035.957,6072,982.44623
+Oregon Institute of Technology,2007,209506,41,OR,60382.023,6093,1035
+Oregon State University,2007,209542,41,OR,76024.719,5911,1074.299
+University of Oregon,2007,209551,41,OR,78637.078,6174,1105
+Portland State University,2007,209807,41,OR,70125.844,5764,1045
+Southern Oregon University,2007,210146,41,OR,58267.418,5481,1021.665
+Western Oregon University,2007,210429,41,OR,59322.473,5757,954.19421
+Bloomsburg University of Pennsylvania,2007,211158,42,PA,82476.406,6623,1010
+California University of Pennsylvania,2007,211361,42,PA,82131.461,6851,947.73938
+Cheyney University of Pennsylvania,2007,211608,42,PA,75392.133,6412,
+Clarion University of Pennsylvania,2007,211644,42,PA,85665.172,6865,945
+East Stroudsburg University of Pennsylvania,2007,212115,42,PA,80312.359,6809,970
+Edinboro University of Pennsylvania,2007,212160,42,PA,81428.094,6767,913.33722
+Indiana University of Pennsylvania-Main Campus,2007,213020,42,PA,83222.477,6695,960
+Kutztown University of Pennsylvania,2007,213349,42,PA,75311.234,6873,973.62158
+Lincoln University of Pennsylvania,2007,213598,42,PA,72633.711,7578,
+Lock Haven University,2007,213613,42,PA,77211.234,6679,934.62701
+Mansfield University of Pennsylvania,2007,213783,42,PA,83214.609,7004,961.60193
+Millersville University of Pennsylvania,2007,214041,42,PA,83511.234,6624,1050
+Penn. State (Combined Campuses),2007,214777,42,PA,84400.195,12844,1178.755
+Univerity of Pittsburgh (Combined Campuses),2007,215293,42,PA,83241.273,12876,1221.179
+Shippensburg University of Pennsylvania,2007,216010,42,PA,82280.898,6849,1010
+Slippery Rock University of Pennsylvania,2007,216038,42,PA,83116.852,6671,993.8811
+Temple University,2007,216339,42,PA,97486.516,10802,1076.759
+West Chester University of Pennsylvania,2007,216764,42,PA,79134.836,6676,1060
+Rhode Island College,2007,217420,44,RI,67524.719,5256,968.50909
+University of Rhode Island,2007,217484,44,RI,86168.539,8184,1058.824
+College of Charleston,2007,217819,45,SC,69971.914,7778,1190.151
+Citadel Military College of South Carolina,2007,217864,45,SC,75653.938,7735,
+Clemson University,2007,217882,45,SC,86084.273,10370,1213.774
+Francis Marion University,2007,218061,45,SC,66657.305,7038,950.45099
+Lander University,2007,218229,45,SC,56716.855,7728,945.43103
+University of South Carolina-Aiken,2007,218645,45,SC,62501.125,7036,988.09521
+University of South Carolina-Beaufort,2007,218654,45,SC,61200,6260,
+University of South Carolina-Columbia,2007,218663,45,SC,87046.07,8346,1161.66
+Coastal Carolina University,2007,218724,45,SC,67833.711,7600,1031.522
+South Carolina State University,2007,218733,45,SC,66153.938,7318,826.02393
+University of South Carolina-Upstate,2007,218742,45,SC,61140.449,7900,976.14722
+Winthrop University,2007,218964,45,SC,68524.719,10210,1041.189
+Black Hills State University,2007,219046,46,SD,59468.539,5803,1010
+Dakota State University,2007,219082,46,SD,65394.383,5381,1010
+Northern State University,2007,219259,46,SD,61198.879,5280,971.12903
+South Dakota State University,2007,219356,46,SD,67152.813,5373,1050
+University of South Dakota,2007,219471,46,SD,64749.438,5752,1030
+Austin Peay State University,2007,219602,47,TN,63035.957,5238,1010.064
+East Tennessee State University,2007,220075,47,TN,64057.305,4887,1042.42
+University of Memphis,2007,220862,47,TN,77640.453,5802,1032.396
+Middle Tennessee State University,2007,220978,47,TN,70996.633,5278,1010.442
+The University of Tennessee at Chattanooga,2007,221740,47,TN,70000,5062,1010
+The University of Tennessee,2007,221759,47,TN,86500,5932,1178.269
+The University of Tennessee-Martin,2007,221768,47,TN,64759.551,5005,1010
+Tennessee State University,2007,221838,47,TN,63213.484,4886,870.62549
+Tennessee Technological University,2007,221847,47,TN,69855.055,4952,1056.301
+Angelo State University,2007,222831,48,TX,64073.035,4343,953.64117
+Texas A & M University-Corpus Christi,2007,224147,48,TX,74528.094,5149,937.90918
+Texas A & M University-Texarkana,2007,224545,48,TX,76147.195,2980,
+Texas A & M University-Commerce,2007,224554,48,TX,63813.484,5126,959.42682
+University of Houston-Clear Lake,2007,225414,48,TX,75056.18,4378,
+University of Houston-Downtown,2007,225432,48,TX,66189.891,4022,
+University of Houston-Victoria,2007,225502,48,TX,81043.82,4032,
+University of Houston,2007,225511,48,TX,92928.094,6084,1044.077
+Lamar University,2007,226091,48,TX,67891.016,5560,907.87158
+Texas A & M International University,2007,226152,48,TX,67516.852,4180,882.06207
+Midwestern State University,2007,226833,48,TX,66791.016,4372,1002.099
+University of North Texas,2007,227216,48,TX,82232.586,5972,1086.924
+The University of Texas-Pan American,2007,227368,48,TX,66723.594,3899,901.48798
+The University of Texas at Brownsville,2007,227377,48,TX,62375.281,3811,
+Prairie View A & M University,2007,227526,48,TX,68070.789,4948,855.92859
+Sam Houston State University,2007,227881,48,TX,71265.172,5416,949.52332
+Stephen F Austin State University,2007,228431,48,TX,62848.316,6162,979.52228
+Texas State University-San Marcos,2007,228459,48,TX,70561.797,6506,1073.774
+Sul Ross State University,2007,228501,48,TX,59885.395,3942,
+Tarleton State University,2007,228529,48,TX,64604.496,4537,955.23383
+Texas A & M University-Kingsville,2007,228705,48,TX,64814.609,4800,782.5
+Texas A & M University-Galveston,2007,228714,48,TX,70269.664,6055,1063.5031
+Texas A & M University-College Station,2007,228723,48,TX,92621.352,7335,1183.472
+The University of Texas at Arlington,2007,228769,48,TX,77731.461,6464,1060.535
+The University of Texas at Austin,2007,228778,48,TX,103660.68,7670,1191.942
+The University of Texas at Dallas,2007,228787,48,TX,107157.3,8554,1229.4351
+The University of Texas at El Paso,2007,228796,48,TX,71101.125,5610,897.7522
+The University of Texas at Tyler,2007,228802,48,TX,64744.945,4476,1055.687
+The University of Texas of the Permian Basin,2007,229018,48,TX,65459.551,3902,970.3161
+The University of Texas at San Antonio,2007,229027,48,TX,87941.578,5478,1007.936
+Texas Southern University,2007,229063,48,TX,69087.641,5428,
+Texas Tech University,2007,229115,48,TX,79707.867,5642,1086.694
+Texas Woman's University,2007,229179,48,TX,69942.695,5832,962.56378
+West Texas A & M University,2007,229814,48,TX,63722.473,4668,980.04529
+Dixie State College of Utah,2007,230171,49,UT,63352.809,2728,
+Southern Utah University,2007,230603,49,UT,60862.922,3796,994.41748
+Utah State University,2007,230728,49,UT,75601.125,4200,1091.782
+Utah Valley University,2007,230737,49,UT,63262.922,3528,
+University of Utah,2007,230764,49,UT,88830.336,4988,1111.838
+Weber State University,2007,230782,49,UT,65210.113,3664,
+Castleton State College,2007,230834,50,VT,57615.73,7244,971.25812
+Johnson State College,2007,230913,50,VT,63391.012,7244,922.89392
+Lyndon State College,2007,230931,50,VT,57496.629,7244,910
+Vermont Technical College,2007,231165,50,VT,54397.754,8948,943.2558
+University of Vermont,2007,231174,50,VT,81284.273,12054,1172.776
+College of William and Mary,2007,231624,51,VA,98987.641,9164,1348.684
+Christopher Newport University,2007,231712,51,VA,77793.258,7050,1148.526
+George Mason University,2007,232186,51,VA,99714.609,6840,1111.719
+James Madison University,2007,232423,51,VA,76620.227,6666,1131.217
+Longwood University,2007,232566,51,VA,64531.461,8058,1070
+University of Mary Washington,2007,232681,51,VA,72273.031,6494,1183.449
+Norfolk State University,2007,232937,51,VA,69446.07,5322,865.67987
+Old Dominion University,2007,232982,51,VA,80202.25,5262,1030.016
+Radford University,2007,233277,51,VA,69070.789,6176,1007.301
+The University of Virginia's College at Wise,2007,233897,51,VA,63639.328,6151,949.28571
+Virginia Polytechnic Institute and State University,2007,233921,51,VA,98069.664,7397,1200
+Virginia Commonwealth University,2007,234030,51,VA,81815.734,6196,1055.037
+University of Virginia-Main Campus,2007,234076,51,VA,115738.2,8690,1310
+Virginia Military Institute,2007,234085,51,VA,81684.273,10048,
+Virginia State University,2007,234155,51,VA,70515.734,5655,885
+Central Washington University,2007,234827,53,WA,65757.305,5493,981.75922
+Eastern Washington University,2007,235097,53,WA,61984.27,4905,977.73767
+The Evergreen State College,2007,235167,53,WA,65330.34,5127,1100.829
+Washington State University,2007,236939,53,WA,81095.508,6866,1101.736
+University of Washington (Combined Campuses),2007,236948,53,WA,99325.18,6385,1196.679
+Western Washington University,2007,237011,53,WA,68624.719,5291,1101.816
+Bluefield State College,2007,237215,54,WV,59005.617,3984,913.96478
+Concord University,2007,237330,54,WV,57416.855,4414,928.39172
+Fairmont State University,2007,237367,54,WV,59321.348,4814,970.2713
+Glenville State College,2007,237385,54,WV,54521.348,4174,886.84009
+Marshall University,2007,237525,54,WV,66496.633,4360,1040.438
+West Virginia University at Parkersburg,2007,237686,54,WV,51061.797,1825,
+Shepherd University,2007,237792,54,WV,63435.957,4564,1019.941
+West Virginia State University,2007,237899,54,WV,56059.551,3778,877.44873
+West Liberty University,2007,237932,54,WV,52815.73,4172,929.31207
+West Virginia University Institute of Technology,2007,237950,54,WV,56570.789,4598,969.14288
+West Virginia University,2007,238032,54,WV,80435.953,4722,1054.509
+University of Wisconsin-Whitewater,2007,240189,55,WI,64479.777,5860,1030
+University of Wisconsin-Eau Claire,2007,240268,55,WI,64110.113,5841,1110
+University of Wisconsin-Green Bay,2007,240277,55,WI,60149.438,5960,1050
+University of Wisconsin-La Crosse,2007,240329,55,WI,64579.777,5851,1130
+University of Wisconsin-Oshkosh,2007,240365,55,WI,64752.809,5690,1030
+University of Wisconsin-Parkside,2007,240374,55,WI,62167.418,5756,930
+University of Wisconsin-Stout,2007,240417,55,WI,62611.238,7273,990
+University of Wisconsin-Superior,2007,240426,55,WI,62328.09,5912,1030
+University of Wisconsin-Madison,2007,240444,55,WI,97204.492,7185,1266.3101
+University of Wisconsin-Milwaukee,2007,240453,55,WI,73400,6954,1030
+University of Wisconsin-Platteville,2007,240462,55,WI,62483.148,5747,1010
+University of Wisconsin-River Falls,2007,240471,55,WI,65944.945,5886,1010
+University of Wisconsin-Stevens Point,2007,240480,55,WI,62575.281,5831,1050
+University of Wyoming,2007,240727,56,WY,81134.836,3366,1090
+Purdue University-Main Campus,2007,243780,18,IN,86061.797,7416,1151.835
+New College of Florida,2007,262129,12,FL,72147.195,3850,1303.958
+Pennsylvania College of Technology,2007,366252,42,PA,74302.25,11250,
+California State University-San Marcos,2007,366711,6,CA,86323.594,3374,970
+California State University-Monterey Bay,2007,409698,6,CA,78242.695,3256,969.84772
+Florida Gulf Coast University,2007,433660,12,FL,71624.719,3647,1015.974
+Nevada State College,2007,441900,32,NV,74313.484,2839,
+California State University-Channel Islands,2007,441937,6,CA,87134.836,3452,986.84613
+Georgia Gwinnett College,2007,447689,13,GA,,,
+University of South Florida-St. Petersburg Campus,2007,448840,12,FL,,0,
+University of South Florida Sarasota-Manatee,2007,451671,12,FL,,0,
+Amridge University,2007,100690,1,AL,34014.605,6240,
+Birmingham Southern College,2007,100937,1,AL,72188.766,24300,1166.7454
+Concordia College Alabama,2007,101073,1,AL,51553.371,6264,
+Faulkner University,2007,101189,1,AL,67479.773,12000,990
+Huntingdon College,2007,101435,1,AL,51913.484,18270,1033.9436
+Judson College,2007,101541,1,AL,55628.09,11120,1039.6296
+Miles College,2007,101675,1,AL,35586.516,7181,
+University of Mobile,2007,101693,1,AL,44679.777,13250,1075
+Oakwood University,2007,101912,1,AL,49316.855,12668,904.91315
+Samford University,2007,102049,1,AL,76264.047,17920,1130.7305
+Spring Hill College,2007,102234,1,AL,59380.898,23100,1085.1554
+Stillman College,2007,102270,1,AL,49349.438,12186,812.64935
+Talladega College,2007,102298,1,AL,43935.957,7128,
+Tuskegee University,2007,102377,1,AL,58041.574,14360,895.62177
+Alaska Pacific University,2007,102669,2,AK,62324.719,21010,1078.4
+American Indian College of the Assemblies of God Inc,2007,103787,4,AZ,32660.674,6645,
+Embry-Riddle Aeronautical University-Prescott,2007,104586,4,AZ,67904.492,26130,1114.4727
+Ottawa University-Phoenix,2007,105367,4,AZ,56092.137,8640,
+Prescott College,2007,105589,4,AZ,41822.473,20180,1116.8309
+Arizona Christian University,2007,105899,4,AZ,52104.496,13302,
+Arkansas Baptist College,2007,106306,5,AR,43804.496,5200,
+Lyon College,2007,106342,5,AR,60676.406,15960,1120.9713
+Central Baptist College,2007,106713,5,AR,41335.957,9040,950
+Harding University,2007,107044,5,AR,61408.988,12360,1117.0667
+Hendrix College,2007,107080,5,AR,71670.789,22425,1253.0237
+John Brown University,2007,107141,5,AR,56497.754,17176,1130.3496
+Ouachita Baptist University,2007,107512,5,AR,55421.348,16508,1106.5487
+University of the Ozarks,2007,107558,5,AR,57837.078,16110,1028.5533
+Philander Smith College,2007,107600,5,AR,40025.844,8402,828.14655
+Williams Baptist College,2007,107877,5,AR,46748.316,10370,990
+Azusa Pacific University,2007,109785,6,CA,70769.664,25130,1075.7301
+Biola University,2007,110097,6,CA,72698.875,24998,1112.2228
+California Institute of Integral Studies,2007,110316,6,CA,67239.328,19005,
+California Baptist University,2007,110361,6,CA,72158.43,20636,987.08392
+California Institute of Technology,2007,110404,6,CA,154189.89,32835,1525
+California Lutheran University,2007,110413,6,CA,77655.055,25990,1093.7004
+Alliant International University,2007,110468,6,CA,73511.234,14860,
+Chapman University,2007,111948,6,CA,96847.195,32608,1221.2098
+Concordia University-Irvine,2007,112075,6,CA,50098.879,22380,1022.1296
+San Diego Christian College,2007,112084,6,CA,49701.125,18920,953.97058
+Claremont Graduate University,2007,112251,6,CA,128801.13,,
+Claremont McKenna College,2007,112260,6,CA,107317.98,35190,1389.5131
+Coleman University,2007,112446,6,CA,39412.359,39700,
+Dominican University of California,2007,113698,6,CA,75891.016,30570,993.86438
+Fielding Graduate University,2007,114549,6,CA,66292.133,,
+Fresno Pacific University,2007,114813,6,CA,60167.418,21796,997.10846
+Golden Gate University-San Francisco,2007,115083,6,CA,105589.89,12240,
+Harvey Mudd College,2007,115409,6,CA,113761.8,34891,1495
+Holy Names University,2007,115728,6,CA,64589.891,25060,980.229
+Humphreys College-Stockton and Modesto Campuses,2007,115773,6,CA,45441.574,8748,
+John F Kennedy University,2007,116712,6,CA,56883.148,16544,
+American Jewish University,2007,116846,6,CA,69338.203,21300,1114.8387
+University of La Verne,2007,117140,6,CA,84758.43,25590,1002.2177
+Lincoln University,2007,117557,6,CA,,8165,
+La Sierra University,2007,117627,6,CA,67224.719,21846,965
+The Master's College and Seminary,2007,117751,6,CA,72259.555,22140,1131.875
+Loyola Marymount University,2007,117946,6,CA,100308.99,31804,1145.4601
+Menlo College,2007,118693,6,CA,77597.758,27950,934.42395
+Mills College,2007,118888,6,CA,108041.58,35440,1123.7764
+Monterey Institute of International Studies,2007,119058,6,CA,50569.664,27950,
+Mount St Mary's College,2007,119173,6,CA,71678.656,25358,920
+National University,2007,119605,6,CA,66582.023,9720,
+Notre Dame de Namur University,2007,120184,6,CA,71749.438,24650,960.69568
+Occidental College,2007,120254,6,CA,91567.414,35343,1290
+Hope International University,2007,120537,6,CA,49385.395,19900,1077.351
+Pacific Union College,2007,120865,6,CA,47102.246,21435,1007.1201
+University of the Pacific,2007,120883,6,CA,86930.336,28980,1173.449
+Pepperdine University,2007,121150,6,CA,104014.61,34700,1230
+Pitzer College,2007,121257,6,CA,94628.094,35912,1235
+Point Loma Nazarene University,2007,121309,6,CA,82187.641,23730,1119.3491
+Pomona College,2007,121345,6,CA,107314.61,33932,1455
+University of Redlands,2007,121691,6,CA,79601.125,30626,1130.3597
+University of San Diego,2007,122436,6,CA,104274.16,32564,1181.6104
+University of San Francisco,2007,122612,6,CA,106337.08,31180,1121.9843
+Santa Clara University,2007,122931,6,CA,102137.08,33000,1212.0909
+Scripps College,2007,123165,6,CA,103521.35,35850,1345.9933
+Simpson University,2007,123457,6,CA,55325.844,18600,1019.6
+Saint Mary's College of California,2007,123554,6,CA,91773.039,31080,1070
+Vanguard University of Southern California,2007,123651,6,CA,64461.797,22986,982.0321
+University of Southern California,2007,123961,6,CA,115738.2,35809,1357.603
+Thomas Aquinas College,2007,124292,6,CA,92513.484,20400,1280.8918
+Westmont College,2007,125727,6,CA,81720.227,31212,1193.7203
+Whittier College,2007,125763,6,CA,88011.234,30160,1071.9473
+Woodbury University,2007,125897,6,CA,82062.922,25758,955
+Colorado Christian University,2007,126669,8,CO,60480.898,19000,1030
+Colorado College,2007,126678,8,CO,95907.867,33972,1305.8206
+University of Denver,2007,127060,8,CO,87616.852,32232,1169.6821
+Naropa University,2007,127653,8,CO,48300,20814,
+Regis University,2007,127918,8,CO,67002.25,26800,993.85156
+Albertus Magnus College,2007,128498,9,CT,57679.777,21074,902.4812
+University of Bridgeport,2007,128744,9,CT,72176.406,22860,855
+Connecticut College,2007,128902,9,CT,85134.836,,1278.959
+Fairfield University,2007,129242,9,CT,93120.227,33905,1169.0255
+Rensselaer Hartford Graduate Center Inc,2007,129428,9,CT,106415.73,,
+University of Hartford,2007,129525,9,CT,75117.977,26996,1038.7461
+Mitchell College,2007,129774,9,CT,65931.461,23093,
+University of New Haven,2007,129941,9,CT,87877.531,26396,1020
+Quinnipiac University,2007,130226,9,CT,101040.45,28720,1110.1633
+Sacred Heart University,2007,130253,9,CT,76515.734,27150,1066
+University of Saint Joseph,2007,130314,9,CT,74179.773,24690,995.5
+Trinity College,2007,130590,9,CT,92177.531,36870,1282.2881
+Wesleyan University,2007,130697,9,CT,102952.81,36806,1376.457
+Yale University,2007,130794,9,CT,139552.81,34530,1485
+Wesley College,2007,131098,10,DE,51928.09,17579,890
+Wilmington University,2007,131113,10,DE,69177.531,8450,
+American University,2007,131159,11,DC,98288.766,31425,1258.6375
+Catholic University of America,2007,131283,11,DC,90432.586,28990,1117.0313
+Gallaudet University,2007,131450,11,DC,100211.23,12360,800
+George Washington University,2007,131469,11,DC,112143.82,37030,1285
+Georgetown University,2007,131496,11,DC,112902.25,35964,1395
+Howard University,2007,131520,11,DC,59386.52,14020,1105
+Trinity Washington University,2007,131876,11,DC,62220.227,18807,
+Barry University,2007,132471,12,FL,72541.57,24725,950
+Bethune-Cookman University,2007,132602,12,FL,54929.215,12382,808.85046
+Lynn University,2007,132657,12,FL,50568.539,28490,891.93066
+Carlos Albizu University-Miami,2007,132842,12,FL,53406.742,11724,
+Clearwater Christian College,2007,133085,12,FL,45834.832,13160,1017.406
+Eckerd College,2007,133492,12,FL,66055.055,29136,1117.8143
+Edward Waters College,2007,133526,12,FL,47412.359,9176,
+Embry-Riddle Aeronautical University-Daytona Beach,2007,133553,12,FL,72717.977,26496,1098.4348
+Flagler College-St Augustine,2007,133711,12,FL,57157.305,11810,1096.0819
+Florida College,2007,133809,12,FL,54871.91,11700,1043.6414
+Florida Institute of Technology,2007,133881,12,FL,77496.633,28920,1145
+Florida Memorial University,2007,133979,12,FL,67349.438,12254,
+Florida Southern College,2007,134079,12,FL,65106.742,21190,1064.6129
+Jacksonville University,2007,134945,12,FL,74387.641,22500,994.94855
+Jones College-Jacksonville,2007,135063,12,FL,,6690,
+Trinity International University-Florida,2007,135610,12,FL,61065.168,9095,
+University of Miami,2007,135726,12,FL,96816.859,33018,1281.943
+Nova Southeastern University,2007,136215,12,FL,84583.148,19400,996.37872
+Palm Beach Atlantic University,2007,136330,12,FL,65374.16,20210,1084.1021
+Rollins College,2007,136950,12,FL,82676.406,32640,1158.3044
+Saint Leo University,2007,137032,12,FL,62393.258,16120,997.10913
+St Thomas University,2007,137476,12,FL,86879.773,20170,867.5777
+Stetson University,2007,137546,12,FL,86997.758,28780,1086.3707
+Southeastern University,2007,137564,12,FL,58473.035,13480,
+The University of Tampa,2007,137847,12,FL,74487.641,20682,1066.5564
+Warner University,2007,138275,12,FL,48946.066,13860,886.43365
+Webber International University,2007,138293,12,FL,47464.047,16760,875.47797
+Agnes Scott College,2007,138600,13,GA,75070.789,27387,1168.0555
+Point University,2007,138868,13,GA,54846.066,14120,890.83331
+Clark Atlanta University,2007,138947,13,GA,57156.18,16100,890
+Berry College,2007,139144,13,GA,68331.461,20570,1145.2235
+Brenau University,2007,139199,13,GA,60150.563,17700,996.52631
+Brewton-Parker College,2007,139205,13,GA,50511.238,14050,890.75421
+Covenant College,2007,139393,13,GA,64643.82,22840,1141.3636
+Emmanuel College,2007,139630,13,GA,44820.227,11566,965
+Emory University,2007,139658,13,GA,109398.88,34336,1385
+LaGrange College,2007,140234,13,GA,63359.551,18500,1002.0909
+Life University,2007,140252,13,GA,54924.719,7425,906.22729
+Mercer University,2007,140447,13,GA,74397.758,26960,1168.9022
+Morehouse College,2007,140553,13,GA,70424.719,18331,1024.0221
+Oglethorpe University,2007,140696,13,GA,65896.633,24442,1125
+Paine College,2007,140720,13,GA,47260.676,10694,790
+Piedmont College,2007,140818,13,GA,59437.078,16500,995.41095
+Reinhardt University,2007,140872,13,GA,57101.125,14970,940.55731
+Shorter University,2007,140988,13,GA,51619.102,15160,966.13446
+Spelman College,2007,141060,13,GA,66593.258,18615,1053.4409
+Thomas University,2007,141167,13,GA,49406.742,10570,
+Toccoa Falls College,2007,141185,13,GA,48639.328,13825,1003.7985
+Truett-McConnell College,2007,141237,13,GA,41451.688,13100,881.79913
+Wesleyan College,2007,141325,13,GA,54262.922,16500,1075.6049
+Chaminade University of Honolulu,2007,141486,15,HI,62888.766,15470,934.15491
+Hawaii Pacific University,2007,141644,15,HI,69997.758,13080,977.24182
+The College of Idaho,2007,142294,16,ID,53760.676,17680,1113.3497
+Northwest Nazarene University,2007,142461,16,ID,52856.18,19970,
+Brigham Young University-Idaho,2007,142522,16,ID,69834.836,3435,1104.4047
+Augustana College,2007,143084,17,IL,68229.211,26484,1165
+Aurora University,2007,143118,17,IL,64634.832,16850,992.69006
+Blackburn College,2007,143288,17,IL,56124.719,15770,990
+Bradley University,2007,143358,17,IL,76486.516,21378,1145
+University of Chicago,2007,144050,17,IL,136833.7,35868,1404.3411
+Columbia College-Chicago,2007,144281,17,IL,74786.516,17584,
+Concordia University-Chicago,2007,144351,17,IL,48065.168,21220,1039.6154
+DePaul University,2007,144740,17,IL,88466.297,24394,1090
+East-West University,2007,144883,17,IL,58119.102,12780,
+Elmhurst College,2007,144962,17,IL,71823.594,24660,1090.3059
+Eureka College,2007,144971,17,IL,48437.078,15360,1070
+Greenville College,2007,145372,17,IL,54555.059,18672,1060.1661
+Benedictine University,2007,145619,17,IL,71449.438,21310,1033.7047
+Illinois Wesleyan University,2007,145646,17,IL,76249.438,30750,1262.3188
+Illinois College,2007,145691,17,IL,60182.023,17800,1090.6766
+Illinois Institute of Technology,2007,145725,17,IL,98267.414,25746,1255.6503
+Judson University,2007,146339,17,IL,61241.574,20420,
+Knox College,2007,146427,17,IL,60275.281,29178,1294.6666
+Lake Forest College,2007,146481,17,IL,76070.789,30964,1206.9631
+Lewis University,2007,146612,17,IL,75725.844,20450,1010.8833
+Lincoln College,2007,146676,17,IL,47582.023,18000,825
+Loyola University Chicago,2007,146719,17,IL,93831.461,27966,1166.3947
+MacMurray College,2007,146825,17,IL,47416.855,16850,883.71796
+McKendree University,2007,147013,17,IL,58882.023,20150,1026.2415
+Millikin University,2007,147244,17,IL,60466.293,23845,1056.7921
+Monmouth College,2007,147341,17,IL,64677.527,22000,1070
+National Louis University,2007,147536,17,IL,61532.586,17725,930
+North Central College,2007,147660,17,IL,72512.359,24564,1129.9379
+North Park University,2007,147679,17,IL,63970.789,20015,1044.8855
+Northwestern University,2007,147767,17,IL,124266.3,35429,1410
+Olivet Nazarene University,2007,147828,17,IL,61635.957,19590,1050
+Principia College,2007,148016,17,IL,,22080,1142.6642
+Quincy University,2007,148131,17,IL,49666.293,19600,1006.7382
+Robert Morris University Illinois,2007,148335,17,IL,64613.484,16800,
+Rockford University,2007,148405,17,IL,56721.348,22950,987.41382
+Roosevelt University,2007,148487,17,IL,77682.023,16980,1059.53
+Dominican University,2007,148496,17,IL,68505.617,22450,1052.4359
+University of St Francis,2007,148584,17,IL,65052.809,20830,1050
+Saint Xavier University,2007,148627,17,IL,72504.492,21236,1030
+Shimer College,2007,148849,17,IL,48291.012,24890,
+Trinity Christian College,2007,149505,17,IL,62061.797,19241,1051.7573
+Trinity International University-Illinois,2007,149514,17,IL,71915.734,21080,1055.2632
+Wheaton College,2007,149781,17,IL,77194.383,23730,1316.6946
+Anderson University,2007,150066,18,IN,63129.215,20976,1043.2433
+Bethel College-Indiana,2007,150145,18,IN,53987.641,19200,
+Butler University,2007,150163,18,IN,70943.82,26806,1183.2335
+Calumet College of Saint Joseph,2007,150172,18,IN,53376.406,11575,
+DePauw University,2007,150400,18,IN,82698.875,29700,1215.5061
+Earlham College,2007,150455,18,IN,67173.031,31514,1222.5714
+University of Evansville,2007,150534,18,IN,71798.875,24340,1139.2943
+Franklin College,2007,150604,18,IN,65321.348,21325,993.04175
+Goshen College,2007,150668,18,IN,56077.527,21300,1145
+Grace College and Theological Seminary,2007,150677,18,IN,55792.137,19224,1089.6827
+Hanover College,2007,150756,18,IN,72026.969,24220,1145
+Holy Cross College,2007,150774,18,IN,48904.496,16460,961.57947
+Huntington University,2007,150941,18,IN,58017.977,19430,1088.124
+University of Indianapolis,2007,151263,18,IN,64782.023,19690,1019.9729
+Manchester University,2007,151777,18,IN,55026.969,21640,1010
+Marian University,2007,151786,18,IN,53594.383,20800,1005.8814
+Indiana Wesleyan University,2007,151801,18,IN,58593.258,18284,1094.5028
+Martin University,2007,151810,18,IN,40558.426,13520,
+University of Notre Dame,2007,152080,18,IN,111229.22,35187,1405
+Oakland City University,2007,152099,18,IN,45591.012,14820,938.24487
+University of Saint Francis-Fort Wayne,2007,152336,18,IN,55023.598,19570,987.31195
+Saint Josephs College,2007,152363,18,IN,57832.586,21880,991.70178
+Saint Mary-of-the-Woods College,2007,152381,18,IN,47473.035,20180,1003.75
+Saint Mary's College,2007,152390,18,IN,67656.18,26875,1127.3767
+Taylor University,2007,152530,18,IN,59494.383,23260,1197.4215
+Trine University,2007,152567,18,IN,53034.832,22250,1068.202
+Valparaiso University,2007,152600,18,IN,74288.766,25200,1134.3647
+Wabash College,2007,152673,18,IN,65432.586,26350,1149.0477
+Briar Cliff University,2007,152992,19,IA,54986.52,19995,
+Buena Vista University,2007,153001,19,IA,65478.652,23842,1010
+Central College,2007,153108,19,IA,62961.797,22510,1103.8883
+Clarke University,2007,153126,19,IA,53264.047,21312,1050.7693
+Coe College,2007,153144,19,IA,70486.516,26390,1172.1488
+Cornell College,2007,153162,19,IA,70508.992,26280,1203.4487
+Dordt College,2007,153250,19,IA,59685.395,19900,1101.3636
+Drake University,2007,153269,19,IA,77958.43,23692,1201.345
+University of Dubuque,2007,153278,19,IA,55322.473,19180,929.08014
+Graceland University-Lamoni,2007,153366,19,IA,53069.664,17900,975.04095
+Grand View University,2007,153375,19,IA,54806.742,17702,968.94739
+Grinnell College,2007,153384,19,IA,86833.711,30192,1355
+Iowa Wesleyan College,2007,153621,19,IA,49930.336,18870,861.1842
+Loras College,2007,153825,19,IA,59483.148,23330,1050
+Luther College,2007,153834,19,IA,70400,28840,1148.7847
+Maharishi University of Management,2007,153861,19,IA,15705.618,24430,
+Morningside College,2007,154004,19,IA,57129.215,20164,1050
+Mount Mercy University,2007,154013,19,IA,55748.316,20070,1030
+Northwestern College,2007,154101,19,IA,60195.508,21648,1125
+Saint Ambrose University,2007,154235,19,IA,66022.477,20580,1010
+Simpson College,2007,154350,19,IA,61352.809,23596,1125
+Upper Iowa University,2007,154493,19,IA,55258.43,19625,926.3158
+Wartburg College,2007,154527,19,IA,64398.879,24300,1091.3451
+William Penn University,2007,154590,19,IA,44716.855,16880,876.16071
+Baker University,2007,154688,20,KS,57198.879,18830,1066.4093
+Benedictine College,2007,154712,20,KS,54746.066,17700,1069.925
+Bethany College,2007,154721,20,KS,44778.652,17110,991.25
+Bethel College-North Newton,2007,154749,20,KS,48540.449,17800,1131.9231
+Central Christian College of Kansas,2007,154855,20,KS,33897.754,15300,966
+Donnelly College,2007,155007,20,KS,31814.607,4725,
+Friends University,2007,155089,20,KS,62532.586,17220,1021.4418
+Newman University,2007,155335,20,KS,53964.047,17928,1044.8387
+Kansas Wesleyan University,2007,155414,20,KS,49464.047,17400,1027.3684
+McPherson College,2007,155511,20,KS,48111.238,16400,1025.7142
+MidAmerica Nazarene University,2007,155520,20,KS,51155.059,17090,1085
+Ottawa University-Ottawa,2007,155627,20,KS,46844.945,17350,984.586
+Ottawa University-Kansas City,2007,155636,20,KS,62292.137,8640,
+University of Saint Mary,2007,155812,20,KS,46025.844,17270,1025.9091
+Southwestern College,2007,155900,20,KS,54559.551,17820,1018.3803
+Sterling College,2007,155937,20,KS,46421.348,15500,961.97528
+Tabor College,2007,155973,20,KS,38734.832,17640,1048.375
+Alice Lloyd College,2007,156189,21,KY,37640.449,8250,953.05084
+Asbury University,2007,156213,21,KY,55961.797,21286,1123.8915
+Bellarmine University,2007,156286,21,KY,68040.453,26120,1123.6003
+Berea College,2007,156295,21,KY,71855.055,790,1071.0706
+Brescia University,2007,156356,21,KY,49625.844,14220,978.48834
+Campbellsville University,2007,156365,21,KY,49628.09,17260,937.32202
+Centre College,2007,156408,21,KY,73635.953,28000,1254.3497
+University of the Cumberlands,2007,156541,21,KY,50073.035,13658,1003.4542
+Georgetown College,2007,156745,21,KY,58521.348,22360,1090.3361
+Kentucky Wesleyan College,2007,157076,21,KY,51531.461,14550,997.94116
+Kentucky Christian University,2007,157100,21,KY,44874.156,12555,929.48169
+Lindsey Wilson College,2007,157216,21,KY,50091.012,15806,
+Mid-Continent University,2007,157359,21,KY,40340.449,12050,894.61536
+Midway College,2007,157377,21,KY,45702.246,15900,950
+University of Pikeville,2007,157535,21,KY,50185.395,13750,
+Saint Catharine College,2007,157632,21,KY,43920.227,12800,
+Spalding University,2007,157757,21,KY,55343.82,16950,844.19232
+Thomas More College,2007,157809,21,KY,56386.52,21220,1044.5171
+Transylvania University,2007,157818,21,KY,77795.508,22300,1180.75
+Union College,2007,157863,21,KY,42741.574,16020,900.96771
+Centenary College of Louisiana,2007,158477,22,LA,66292.133,20950,1112.2368
+Dillard University,2007,158802,22,LA,62571.91,12240,865.44202
+Louisiana College,2007,159568,22,LA,50288.766,11490,971.70038
+Loyola University New Orleans,2007,159656,22,LA,76467.414,26508,1180.416
+Our Lady of Holy Cross College,2007,160065,22,LA,49468.539,7035,
+Tulane University of Louisiana,2007,160755,22,LA,78268.539,36610,1289.2921
+Xavier University of Louisiana,2007,160904,22,LA,68903.375,14700,962.30389
+College of the Atlantic,2007,160959,23,ME,65550.563,29970,
+Bates College,2007,160977,23,ME,93762.922,,
+Bowdoin College,2007,161004,23,ME,100304.49,36370,1385
+Colby College,2007,161086,23,ME,100046.07,,1347.8192
+Husson University,2007,161165,23,ME,57626.969,14487,
+University of New England,2007,161457,23,ME,65326.969,25330,1056.3444
+Saint Joseph's College of Maine,2007,161518,23,ME,57800,23300,960
+Thomas College,2007,161563,23,ME,51213.484,18710,930.68671
+Unity College,2007,161572,23,ME,55597.754,19480,
+Washington Adventist University,2007,162210,24,MD,53262.922,19350,877.76801
+Goucher College,2007,162654,24,MD,74085.391,31082,1169.0238
+Hood College,2007,162760,24,MD,65238.203,25076,1086.6666
+Johns Hopkins University,2007,162928,24,MD,109985.4,35900,1380.739
+Loyola University Maryland,2007,163046,24,MD,81039.328,33938,1213.2522
+Mount St Mary's University,2007,163462,24,MD,67937.078,25890,1060
+Notre Dame of Maryland University,2007,163578,24,MD,67079.773,24500,1025.4286
+Sojourner-Douglass College,2007,163921,24,MD,10342.697,7478,
+St John's College,2007,163976,24,MD,89443.82,36596,
+Maryland University of Integrative Health,2007,164085,24,MD,25702.248,,
+Stevenson University,2007,164173,24,MD,67330.336,17944,1021.5848
+Washington College,2007,164216,24,MD,66486.516,32160,1133.2979
+McDaniel College,2007,164270,24,MD,67423.594,28940,1115.0765
+American International College,2007,164447,25,MA,49404.496,22500,997.93695
+Amherst College,2007,164465,25,MA,113878.66,36232,1430
+Anna Maria College,2007,164492,25,MA,54771.91,24617,854.78845
+Assumption College,2007,164562,25,MA,65553.938,27485,1060
+Bay Path College,2007,164632,25,MA,66040.453,22073,971.34375
+Becker College,2007,164720,25,MA,65292.137,23600,857.59851
+Bentley University,2007,164739,25,MA,109661.8,31696,1220.2916
+Boston College,2007,164924,25,MA,117416.86,35674,1331.6887
+Boston University,2007,164988,25,MA,103511.23,35418,1263.3046
+Brandeis University,2007,165015,25,MA,105091.02,35702,1351.7902
+Cambridge College,2007,165167,25,MA,,12530,
+Clark University,2007,165334,25,MA,87357.305,32865,1198.6801
+Curry College,2007,165529,25,MA,75064.047,25755,1011.5
+Eastern Nazarene College,2007,165644,25,MA,57686.52,20574,995.09802
+Emerson College,2007,165662,25,MA,79141.578,27366,1232.6893
+Emmanuel College,2007,165671,25,MA,73269.664,26250,1040
+Endicott College,2007,165699,25,MA,69543.82,22950,1064.6488
+Fisher College,2007,165802,25,MA,58771.91,21015,
+Gordon College,2007,165936,25,MA,73632.586,25748,1160.8899
+Hampshire College,2007,166018,25,MA,80059.555,36545,1253.1145
+Harvard University,2007,166027,25,MA,157361.8,34998,1495
+College of the Holy Cross,2007,166124,25,MA,86097.758,35142,
+Lasell College,2007,166391,25,MA,68268.539,21850,986.84967
+Lesley University,2007,166452,25,MA,71246.07,25850,1039.1777
+Massachusetts Institute of Technology,2007,166683,25,MA,132485.39,36426,1470
+Merrimack College,2007,166850,25,MA,74662.922,27040,1109.0499
+Mount Holyoke College,2007,166939,25,MA,94158.43,35940,
+Mount Ida College,2007,166948,25,MA,68937.078,21330,865
+Newbury College,2007,167251,25,MA,49692.137,20000,
+Nichols College,2007,167260,25,MA,54387.641,25700,913.33868
+Northeastern University,2007,167358,25,MA,102316.86,31899,1247.8185
+College of Our Lady of the Elms,2007,167394,25,MA,60459.551,23580,921.86438
+Pine Manor College,2007,167455,25,MA,56297.754,17750,799.854
+Simmons College,2007,167783,25,MA,85524.719,28302,1085.9227
+Bard College at Simon's Rock,2007,167792,25,MA,81487.641,36795,1264.3926
+Smith College,2007,167835,25,MA,100788.77,34186,1260.3342
+Springfield College,2007,167899,25,MA,73577.531,24075,1015
+Stonehill College,2007,167996,25,MA,72378.656,28065,1176.9886
+Suffolk University,2007,168005,25,MA,100653.94,24270,1025.4105
+Tufts University,2007,168148,25,MA,102380.9,36700,1415
+Wellesley College,2007,168218,25,MA,114503.38,34994,1375.8784
+Wentworth Institute of Technology,2007,168227,25,MA,70940.453,20930,
+Western New England University,2007,168254,25,MA,90600,25942,1031.8103
+Wheaton College,2007,168281,25,MA,84600,36690,
+Wheelock College,2007,168290,25,MA,71774.156,26080,956.69385
+Williams College,2007,168342,25,MA,108865.17,35670,1420
+Worcester Polytechnic Institute,2007,168421,25,MA,101452.81,34830,1281.7446
+Adrian College,2007,168528,26,MI,67686.516,21620,1041.9694
+Albion College,2007,168546,26,MI,64265.168,27530,1128.7201
+Alma College,2007,168591,26,MI,69956.18,23688,1109.3577
+Andrews University,2007,168740,26,MI,46842.699,18978,1065.9104
+Aquinas College,2007,168786,26,MI,49391.012,20048,1050
+Baker College of Owosso,2007,168838,26,MI,50235.957,6660,
+Baker College of Flint,2007,168847,26,MI,57160.676,6660,
+Calvin College,2007,169080,26,MI,72910.117,21685,1171.3212
+Concordia University-Ann Arbor,2007,169363,26,MI,48494.383,19870,1061.9736
+Davenport University,2007,169479,26,MI,57332.586,9956,
+University of Detroit Mercy,2007,169716,26,MI,76652.813,25620,1055.6976
+Kettering University,2007,169983,26,MI,76679.773,25658,1191.302
+Grace Bible College,2007,170000,26,MI,42060.676,11640,1025
+Cornerstone University,2007,170037,26,MI,54830.34,18360,1070
+Hope College,2007,170301,26,MI,67729.211,23800,1185
+Kalamazoo College,2007,170532,26,MI,67728.094,28716,1292.7135
+Lawrence Technological University,2007,170675,26,MI,76802.25,20496,1072.8527
+Madonna University,2007,170806,26,MI,66961.797,11680,1050
+Marygrove College,2007,170842,26,MI,58795.508,14690,825
+Rochester College,2007,170967,26,MI,39885.395,14860,
+Baker College of Muskegon,2007,171298,26,MI,47846.066,6660,
+Olivet College,2007,171599,26,MI,51522.473,18648,910
+Kuyper College,2007,171881,26,MI,51500,12724,1008.147
+Siena Heights University,2007,172264,26,MI,53020.227,18494,948.58759
+Spring Arbor University,2007,172334,26,MI,54529.215,18360,1034.3016
+Finlandia University,2007,172440,26,MI,49504.496,17414,
+Augsburg College,2007,173045,27,MN,62913.484,25061,1036.1848
+Bethany Lutheran College,2007,173142,27,MN,54943.82,17760,1070
+Bethel University,2007,173160,27,MN,69856.18,24510,1146.5
+Carleton College,2007,173258,27,MN,95993.258,36156,1400
+Concordia College at Moorhead,2007,173300,27,MN,64443.82,22350,1131.6666
+Concordia University-Saint Paul,2007,173328,27,MN,46184.27,23496,995.26318
+Martin Luther College,2007,173452,27,MN,49434.832,9850,1125
+Gustavus Adolphus College,2007,173647,27,MN,67397.75,28515,1260
+Hamline University,2007,173665,27,MN,74896.633,26166,1113.2581
+Macalester College,2007,173902,27,MN,90760.672,33694,1342.9473
+North Central University,2007,174437,27,MN,61584.27,13666,998.78381
+University of Northwestern-St Paul,2007,174491,27,MN,58903.371,20990,1107.8823
+College of Saint Benedict,2007,174747,27,MN,72139.328,26530,1165.2245
+Saint Johns University,2007,174792,27,MN,71386.516,26530,1161.9626
+Saint Mary's University of Minnesota,2007,174817,27,MN,64207.867,22398,1031.6796
+St Olaf College,2007,174844,27,MN,76364.047,30600,1293.7819
+Crown College,2007,174862,27,MN,66383.148,18588,1048.694
+The College of Saint Scholastica,2007,174899,27,MN,65084.27,24990,1072.4016
+University of St Thomas,2007,174914,27,MN,83917.977,26274,1146.5601
+St Catherine University,2007,175005,27,MN,62384.27,18987,1070
+Belhaven University,2007,175421,28,MS,52247.191,15580,1074.6488
+Blue Mountain College,2007,175430,28,MS,49183.148,8020,
+Millsaps College,2007,175980,28,MS,68431.461,23352,1191.2725
+Mississippi College,2007,176053,28,MS,64139.328,12494,1083.955
+Rust College,2007,176318,28,MS,43626.969,6600,760
+Tougaloo College,2007,176406,28,MS,43993.258,9710,1078.4518
+William Carey University,2007,176479,28,MS,50341.574,9015,1041.9254
+Avila University,2007,176628,29,MO,57097.754,18850,1046.2393
+Central Methodist University-College of Liberal Arts and Sciences,2007,176947,29,MO,48531.461,17160,1008.2239
+Columbia College,2007,177065,29,MO,63637.078,13034,1059.2566
+Culver-Stockton College,2007,177144,29,MO,53257.305,16800,988.91626
+Drury University,2007,177214,29,MO,63703.371,16980,1165.7421
+Evangel University,2007,177339,29,MO,45633.707,13945,1050
+Fontbonne University,2007,177418,29,MO,60285.395,18320,1000.2128
+Hannibal-LaGrange University,2007,177542,29,MO,45157.305,13630,1005.8015
+Lindenwood University,2007,177968,29,MO,59142.699,12640,1026.7838
+Maryville University of Saint Louis,2007,178059,29,MO,65470.789,19050,1111.2216
+Missouri Baptist University,2007,178244,29,MO,47184.27,15850,995.5769
+Missouri Valley College,2007,178369,29,MO,41768.539,15450,923.34143
+College of the Ozarks,2007,178697,29,MO,59249.438,16180,1090
+Park University,2007,178721,29,MO,62105.617,7310,1065
+Rockhurst University,2007,179043,29,MO,63738.203,22840,1142.0074
+Saint Louis University,2007,179159,29,MO,84513.484,28878,1203.5647
+Southwest Baptist University,2007,179326,29,MO,49369.664,14950,1064.5972
+Stephens College,2007,179548,29,MO,46535.957,21730,1112.4075
+Washington University in St Louis,2007,179867,29,MO,118611.23,35524,1450
+Webster University,2007,179894,29,MO,73959.555,19330,1127.334
+Westminster College,2007,179946,29,MO,60208.988,15946,1152.5519
+William Jewell College,2007,179955,29,MO,59940.449,21400,1145
+William Woods University,2007,179964,29,MO,49353.934,16080,1026.986
+Carroll College,2007,180106,30,MT,54640.449,19620,1084.3077
+University of Great Falls,2007,180258,30,MT,45023.598,16492,
+Rocky Mountain College,2007,180595,30,MT,52042.699,17774,1028.5514
+Bellevue University,2007,180814,31,NE,58748.316,4650,
+Concordia University-Nebraska,2007,180984,31,NE,60723.598,19790,1091.6946
+Creighton University,2007,181002,31,NE,79459.555,26634,1214.7008
+Doane College-Crete,2007,181020,31,NE,60476.406,19150,1065.5677
+Grace University,2007,181093,31,NE,43394.383,13930,1030
+Hastings College,2007,181127,31,NE,58955.059,19604,1046.869
+Midland University,2007,181330,31,NE,50103.371,20924,962.22729
+Nebraska Wesleyan University,2007,181446,31,NE,59024.719,20252,1125
+Summit Christian College,2007,181543,31,NE,29274.158,3715,905
+College of Saint Mary,2007,181604,31,NE,51973.035,20220,970
+Union College,2007,181738,31,NE,55283.148,16130,1050
+York College,2007,181853,31,NE,46639.328,14000,1028.6957
+Sierra Nevada College,2007,182458,32,NV,69611.234,22005,954.92755
+Colby-Sawyer College,2007,182634,33,NH,61812.359,28010,978.8125
+Dartmouth College,2007,182670,33,NH,108862.92,35178,1441.5634
+Franklin Pierce University,2007,182795,33,NH,61741.574,26516,977.5
+College of St Mary Magdalen,2007,182917,33,NH,36444.945,,
+New England College,2007,182980,33,NH,64408.988,25100,872.54547
+Southern New Hampshire University,2007,183026,33,NH,78696.633,23346,955
+Rivier University,2007,183211,33,NH,65570.789,22160,955
+Saint Anselm College,2007,183239,33,NH,71910.117,27690,1110
+Thomas More College of Liberal Arts,2007,183275,33,NH,66585.391,12250,
+Bloomfield College,2007,183822,34,NJ,76144.945,18000,870
+Caldwell College,2007,183910,34,NJ,72039.328,22000,992.51947
+Centenary College,2007,183974,34,NJ,58600,23950,931.43884
+Drew University,2007,184348,34,NJ,87406.742,34790,1140.071
+Fairleigh Dickinson University-Metropolitan Campus,2007,184603,34,NJ,79701.125,26232,980
+Felician College,2007,184612,34,NJ,60694.383,21100,885
+Fairleigh Dickinson University-College at Florham,2007,184694,34,NJ,73551.688,28228,1025
+Georgian Court University,2007,184773,34,NJ,68861.797,22078,
+Monmouth University,2007,185572,34,NJ,81244.945,23034,1068.9207
+Princeton University,2007,186131,34,NJ,148015.73,33000,1485
+Rider University,2007,186283,34,NJ,102225.84,26230,1051.7023
+Saint Peter's University,2007,186432,34,NJ,72232.586,24026,944.64716
+Seton Hall University,2007,186584,34,NJ,93395.508,27850,1060
+College of Saint Elizabeth,2007,186618,34,NJ,66583.148,22547,900
+Stevens Institute of Technology,2007,186867,34,NJ,100993.26,34168,1256.9075
+University of the Southwest,2007,188182,35,NM,43405.617,12480,850.16949
+Vaughn College of Aeronautics and Technology,2007,188340,36,NY,79744.945,15100,
+Adelphi University,2007,188429,36,NY,97893.258,22200,1065.2551
+Alfred University,2007,188641,36,NY,68414.609,23162,1113.4504
+Bard College,2007,189088,36,NY,99240.453,36792,
+Barnard College,2007,189097,36,NY,99832.586,35190,1341.8813
+Boricua College,2007,189413,36,NY,49911.238,9225,
+Canisius College,2007,189705,36,NY,78223.594,26427,1097.6296
+Cazenovia College,2007,189848,36,NY,62077.527,21500,
+Clarkson University,2007,190044,36,NY,90011.234,29160,1173.8328
+Colgate University,2007,190099,36,NY,101885.4,37660,1340
+Metropolitan College of New York,2007,190114,36,NY,58320.227,16720,
+Columbia University in the City of New York,2007,190150,36,NY,127398.88,37223,1424.2202
+Concordia College-New York,2007,190248,36,NY,48460.676,22350,898.5274
+Cooper Union for the Advancement of Science and Art,2007,190372,36,NY,106468.54,33000,1360
+Cornell University,2007,190415,36,NY,122426.97,34781,1385.1105
+D'Youville College,2007,190716,36,NY,58593.258,17800,1012.963
+Daemen College,2007,190725,36,NY,63349.438,18750,1028.1223
+Dominican College of Blauvelt,2007,190761,36,NY,65304.496,19510,888.30817
+Dowling College,2007,190770,36,NY,84774.156,17452,
+Elmira College,2007,190983,36,NY,58021.348,31700,1133.2747
+Fordham University,2007,191241,36,NY,104871.91,32120,1229.0424
+Hamilton College,2007,191515,36,NY,96205.617,36860,
+Hartwick College,2007,191533,36,NY,69268.539,30730,1091.9459
+Hilbert College,2007,191621,36,NY,58025.844,16600,
+Hobart William Smith Colleges,2007,191630,36,NY,86795.508,36718,
+Hofstra University,2007,191649,36,NY,105155.05,26730,1155.8396
+Houghton College,2007,191676,36,NY,57482.023,21620,1128.6666
+Iona College,2007,191931,36,NY,84680.898,24724,1190
+Ithaca College,2007,191968,36,NY,74005.617,28670,1165
+Keuka College,2007,192192,36,NY,62010.113,20550,
+Le Moyne College,2007,192323,36,NY,80330.336,23760,1070.4967
+LIU Brooklyn,2007,192439,36,NY,76314.609,26102,915
+LIU Post,2007,192448,36,NY,80706.742,25850,954.3551
+LIU Brentwood,2007,192563,36,NY,,25750,
+Manhattan College,2007,192703,36,NY,86329.219,23100,1120.2668
+Manhattanville College,2007,192749,36,NY,69708.992,29680,1093.2067
+Marist College,2007,192819,36,NY,70595.508,24040,1149.4014
+Marymount Manhattan College,2007,192864,36,NY,71248.313,20600,1054.2115
+Medaille College,2007,192925,36,NY,62228.09,16590,942.97028
+Mercy College,2007,193016,36,NY,72512.359,14170,
+Molloy College,2007,193292,36,NY,79115.734,18390,1036.4474
+Mount Saint Mary College,2007,193353,36,NY,72744.945,19520,998.09998
+College of Mount Saint Vincent,2007,193399,36,NY,63612.359,22750,940
+Nazareth College,2007,193584,36,NY,71635.953,22834,
+The College of New Rochelle,2007,193645,36,NY,74082.023,23700,975
+The New School,2007,193654,36,NY,93597.758,31199,1112.8098
+New York University,2007,193900,36,NY,117878.66,35290,1333.4913
+Niagara University,2007,193973,36,NY,67958.43,22300,1048.1008
+New York Institute of Technology,2007,194091,36,NY,99187.641,21498,1005.5
+Nyack College,2007,194161,36,NY,59715.73,16600,965.44305
+Pace University-New York,2007,194310,36,NY,108587.64,30158,1070
+Paul Smiths College of Arts and Science,2007,194392,36,NY,50113.484,20380,
+Polytechnic Institute of New York University,2007,194541,36,NY,90734.836,30972,1150
+Rensselaer Polytechnic Institute,2007,194824,36,NY,108256.18,35878,1313.6821
+Roberts Wesleyan College,2007,194958,36,NY,59625.844,21352,1050
+Rochester Institute of Technology,2007,195003,36,NY,87698.875,26481,1196.439
+University of Rochester,2007,195030,36,NY,109004.5,35188,1317.8882
+Rockefeller University,2007,195049,36,NY,157169.67,,
+The Sage Colleges,2007,195128,36,NY,57819.102,25790,1101.3158
+St Bonaventure University,2007,195164,36,NY,61604.496,23605,1035.8263
+St Francis College,2007,195173,36,NY,76486.516,14920,915
+St Lawrence University,2007,195216,36,NY,78151.688,35600,
+The College of Saint Rose,2007,195234,36,NY,64820.227,20526,1055.7865
+St Thomas Aquinas College,2007,195243,36,NY,82694.383,18900,934.4101
+Sarah Lawrence College,2007,195304,36,NY,90444.945,38090,
+Siena College,2007,195474,36,NY,82942.695,22685,1101.7729
+Skidmore College,2007,195526,36,NY,81668.539,36860,1249.2455
+Saint Joseph's College-New York,2007,195544,36,NY,78842.695,14520,980
+Saint John Fisher College,2007,195720,36,NY,70420.227,21930,1078.8798
+St John's University-New York,2007,195809,36,NY,106675.28,26890,1070
+Syracuse University,2007,196413,36,NY,95221.352,31686,1216.3439
+Teachers College at Columbia University,2007,196468,36,NY,111498.88,,
+Touro College,2007,196592,36,NY,73467.414,12600,
+Excelsior College,2007,196680,36,NY,,,
+Union College,2007,196866,36,NY,86849.438,,
+Utica College,2007,197045,36,NY,68900,24584,958.01813
+Vassar College,2007,197133,36,NY,97956.18,38115,1375
+Wagner College,2007,197197,36,NY,73916.852,29500,1180.6488
+Wells College,2007,197230,36,NY,71315.734,17810,1121.267
+Yeshiva University,2007,197708,36,NY,97277.531,30560,1223.0339
+Barton College,2007,197911,37,NC,48979.777,18886,929.20154
+Belmont Abbey College,2007,197984,37,NC,53656.18,18796,997.3457
+Bennett College,2007,197993,37,NC,48198.879,14648,801.27271
+Brevard College,2007,198066,37,NC,48424.719,18750,1002.6699
+Campbell University,2007,198136,37,NC,71761.797,18850,
+Catawba College,2007,198215,37,NC,59484.27,20836,1006.0478
+Chowan University,2007,198303,37,NC,50242.699,17030,855.82843
+Davidson College,2007,198385,37,NC,105289.89,31794,1349.0221
+Duke University,2007,198419,37,NC,120040.45,35512,1435
+Elon University,2007,198516,37,NC,73808.992,22166,1210.7053
+Gardner-Webb University,2007,198561,37,NC,59523.598,18680,1011.8942
+Greensboro College,2007,198598,37,NC,58823.598,20810,931.33929
+Guilford College,2007,198613,37,NC,58271.91,24470,1109.4779
+High Point University,2007,198695,37,NC,68413.484,19925,1025.0212
+Johnson C Smith University,2007,198756,37,NC,61150.563,15754,934.89154
+Lees-McRae College,2007,198808,37,NC,47013.484,19500,969.65173
+Lenoir-Rhyne University,2007,198835,37,NC,61096.629,21580,1029.964
+Livingstone College,2007,198862,37,NC,52630.34,12175,745.67566
+Mars Hill University,2007,198899,37,NC,50553.934,18812,941.875
+Meredith College,2007,198950,37,NC,66419.102,22400,1026.6637
+Methodist University,2007,198969,37,NC,55170.789,20390,978
+Montreat College,2007,199032,37,NC,52964.047,18056,966.49121
+Mount Olive College,2007,199069,37,NC,58447.191,13126,
+North Carolina Wesleyan College,2007,199209,37,NC,51978.652,18900,942.48981
+William Peace University,2007,199272,37,NC,59433.707,21628,928.47827
+Pfeiffer University,2007,199306,37,NC,59197.754,17520,1010
+Queens University of Charlotte,2007,199412,37,NC,60988.766,20720,1032.906
+Mid-Atlantic Christian University,2007,199458,37,NC,36922.473,9640,967.62964
+Saint Augustine's University,2007,199582,37,NC,52968.539,13206,726.15302
+Salem College,2007,199607,37,NC,55938.203,19190,1103.4722
+Shaw University,2007,199643,37,NC,51573.035,10840,735
+St Andrews University,2007,199698,37,NC,49338.203,18192,
+Wake Forest University,2007,199847,37,NC,98379.773,34330,1320.04
+Warren Wilson College,2007,199865,37,NC,48719.102,21384,1160
+Wingate University,2007,199962,37,NC,60234.832,18480,998.64929
+University of Jamestown,2007,200156,38,ND,52347.191,11535,1027.6563
+University of Mary,2007,200217,38,ND,52646.066,11754,1030
+Ashland University,2007,201104,39,OH,66537.078,23006,1046.558
+Baldwin Wallace University,2007,201195,39,OH,69960.672,22404,1093.9409
+Bluffton University,2007,201371,39,OH,56520.227,21780,1038.361
+Capital University,2007,201548,39,OH,74841.578,26360,1081.5509
+Case Western Reserve University,2007,201645,39,OH,99858.43,33538,1296.1813
+Cedarville University,2007,201654,39,OH,63116.855,19680,1187.3502
+Ohio Christian University,2007,201964,39,OH,34701.125,13040,950
+University of Dayton,2007,202480,39,OH,81895.508,25950,1161.7208
+Defiance College,2007,202514,39,OH,55820.227,20630,963.6842
+Denison University,2007,202523,39,OH,74420.227,33010,1283.0337
+The University of Findlay,2007,202763,39,OH,63329.215,23890,1064.6014
+Heidelberg University,2007,203085,39,OH,59782.023,18618,1005.7277
+Hiram College,2007,203128,39,OH,60883.148,24885,1061.7831
+John Carroll University,2007,203368,39,OH,74619.102,26434,1090
+Kenyon College,2007,203535,39,OH,78388.766,38140,1333.1835
+Lake Erie College,2007,203580,39,OH,60185.395,23886,961.78699
+Lourdes University,2007,203757,39,OH,56407.867,11232,
+Malone University,2007,203775,39,OH,59678.652,18870,1050
+Marietta College,2007,203845,39,OH,61530.34,24842,1070
+University of Mount Union,2007,204185,39,OH,70379.773,22050,1030
+Mount Vernon Nazarene University,2007,204194,39,OH,56216.855,18064,1044.8297
+College of Mount St Joseph,2007,204200,39,OH,58516.855,21200,999.86487
+Muskingum University,2007,204264,39,OH,64305.617,18025,1025.4218
+Notre Dame College,2007,204468,39,OH,48171.91,21090,896.80798
+Oberlin College,2007,204501,39,OH,93320.227,36282,1340.4546
+Ohio Dominican University,2007,204617,39,OH,62468.539,21794,990
+Ohio Northern University,2007,204635,39,OH,77988.766,29610,1181.697
+Ohio Wesleyan University,2007,204909,39,OH,69222.477,31930,1193.8512
+Otterbein University,2007,204936,39,OH,68671.914,25065,1055.4636
+University of Rio Grande,2007,205203,39,OH,61638.203,16400,
+Franciscan University of Steubenville,2007,205957,39,OH,62173.035,18180,1162.7693
+Tiffin University,2007,206048,39,OH,47012.359,16800,950
+Union Institute & University,2007,206279,39,OH,47578.652,9844,
+Urbana University,2007,206330,39,OH,52789.887,17694,
+Ursuline College,2007,206349,39,OH,57993.258,21110,977.66919
+Walsh University,2007,206437,39,OH,56605.617,18930,1026.7858
+Wilberforce University,2007,206491,39,OH,50402.246,11560,
+Wilmington College,2007,206507,39,OH,57258.43,22078,967.72614
+Wittenberg University,2007,206525,39,OH,71467.414,31400,1118.7852
+The College of Wooster,2007,206589,39,OH,67889.891,31870,1199.0244
+Xavier University,2007,206622,39,OH,73416.852,24600,1178.9426
+Bacone College,2007,206817,40,OK,46711.238,10056,804.18268
+Oklahoma Wesleyan University,2007,206835,40,OK,46047.191,15500,
+Southern Nazarene University,2007,206862,40,OK,57220.227,15924,
+Oklahoma Christian University,2007,207324,40,OK,62271.91,15796,1057.0168
+Oklahoma Baptist University,2007,207403,40,OK,50048.316,15932,1098.254
+Oklahoma City University,2007,207458,40,OK,69117.977,21000,1133.8536
+Oral Roberts University,2007,207582,40,OK,51635.957,17400,1050
+Saint Gregory's University,2007,207689,40,OK,45493.258,14710,933.38708
+Southwestern Christian University,2007,207856,40,OK,52759.551,8600,825
+University of Tulsa,2007,207971,40,OK,86600,21770,1241.3519
+Concordia University-Portland,2007,208488,41,OR,56417.977,21110,1002.9778
+George Fox University,2007,208822,41,OR,63568.539,23790,1065.2286
+Lewis & Clark College,2007,209056,41,OR,84178.656,31840,1275.126
+Linfield College-McMinnville Campus,2007,209065,41,OR,68060.672,25644,1105
+Marylhurst University,2007,209108,41,OR,46286.52,15570,
+Northwest Christian University,2007,209409,41,OR,47239.328,21480,992.85712
+Pacific University,2007,209612,41,OR,67851.688,26520,1107.4534
+University of Portland,2007,209825,41,OR,71959.555,28834,1175
+Reed College,2007,209922,41,OR,92839.328,36420,1380.6173
+Warner Pacific College,2007,210304,41,OR,47615.73,21500,975.5
+Corban University,2007,210331,41,OR,51941.574,20690,1068.1979
+Willamette University,2007,210401,41,OR,86524.719,31968,1232.885
+Bryn Athyn College of the New Church,2007,210492,42,PA,66701.125,10114,1092.439
+Albright College,2007,210571,42,PA,67548.313,28884,1007.5
+Allegheny College,2007,210669,42,PA,72234.836,30000,1203.2627
+DeSales University,2007,210739,42,PA,67777.531,23900,1075.2659
+Alvernia University,2007,210775,42,PA,61831.461,21614,941.33234
+Arcadia University,2007,211088,42,PA,74870.789,27800,1093.8823
+Bryn Mawr College,2007,211273,42,PA,93444.945,34650,1297.1284
+Bucknell University,2007,211291,42,PA,90696.633,38134,1310.9471
+Cabrini College,2007,211352,42,PA,64647.191,28030,960
+Carlow University,2007,211431,42,PA,65395.508,19514,986.32037
+Carnegie Mellon University,2007,211440,42,PA,116507.87,35984,1381.4183
+Cedar Crest College,2007,211468,42,PA,67060.672,25340,1067.521
+Chatham University,2007,211556,42,PA,63447.191,26116,
+Chestnut Hill College,2007,211583,42,PA,60635.957,24900,970
+Delaware Valley College,2007,211981,42,PA,62062.922,24410,1022.212
+Dickinson College,2007,212009,42,PA,77270.789,35784,1280
+Drexel University,2007,212054,42,PA,87682.023,29065,1191.2606
+Duquesne University,2007,212106,42,PA,81797.758,23950,1113.7157
+Eastern University,2007,212133,42,PA,62186.52,21395,1032.0702
+Elizabethtown College,2007,212197,42,PA,71307.867,29000,1110
+Franklin and Marshall College,2007,212577,42,PA,89403.375,36480,
+Gannon University,2007,212601,42,PA,65949.438,21976,1040.6685
+Geneva College,2007,212656,42,PA,57705.617,19430,1071.1425
+Gettysburg College,2007,212674,42,PA,80576.406,35770,1290
+Gratz College,2007,212771,42,PA,66387.641,11570,
+Grove City College,2007,212805,42,PA,,11500,1260.39
+Gwynedd Mercy University,2007,212832,42,PA,68340.453,21025,968.02838
+Haverford College,2007,212911,42,PA,94594.383,35390,1390
+Holy Family University,2007,212984,42,PA,69516.852,20300,934.86255
+Immaculata University,2007,213011,42,PA,65028.09,22650,960.14136
+Juniata College,2007,213251,42,PA,70138.203,28920,1175
+Keystone College,2007,213303,42,PA,59135.957,17040,875.18274
+King's College,2007,213321,42,PA,67835.953,23450,1035
+La Roche College,2007,213358,42,PA,60257.305,19252,905.8772
+La Salle University,2007,213367,42,PA,79108.992,29400,1055
+Lafayette College,2007,213385,42,PA,97025.844,33811,1277.2063
+Lebanon Valley College,2007,213507,42,PA,71251.688,27800,
+Lehigh University,2007,213543,42,PA,107238.2,35610,1315
+Lycoming College,2007,213668,42,PA,65924.719,26749,1047.8834
+Marywood University,2007,213826,42,PA,70991.016,24090,1025
+Mercyhurst University,2007,213987,42,PA,56070.789,21901,1053.1432
+Messiah College,2007,213996,42,PA,67466.297,24420,1154.8781
+Misericordia University,2007,214069,42,PA,64347.191,21950,1012.28
+Moravian College,2007,214157,42,PA,71428.094,28388,1089.1478
+Mount Aloysius College,2007,214166,42,PA,55313.484,15990,899.12354
+Muhlenberg College,2007,214175,42,PA,74303.375,33090,1209.4796
+Neumann University,2007,214272,42,PA,58020.227,19486,875
+Peirce College,2007,214883,42,PA,60424.719,13750,
+University of Pennsylvania,2007,215062,42,PA,151357.31,35916,1425
+Philadelphia University,2007,215099,42,PA,77285.391,25456,1065.3616
+Cairn University-Langhorne,2007,215114,42,PA,57976.406,16730,1039.9401
+Point Park University,2007,215442,42,PA,69278.656,18990,1002.0737
+Robert Morris University,2007,215655,42,PA,81660.672,17900,1005.4777
+Rosemont College,2007,215691,42,PA,53987.641,22535,910
+Saint Francis University,2007,215743,42,PA,63169.664,23494,1029.5398
+Saint Joseph's University,2007,215770,42,PA,86759.555,30985,1160.2365
+Saint Vincent College,2007,215798,42,PA,66010.117,24109,1077.9572
+University of Scranton,2007,215929,42,PA,81512.359,28758,1125
+Seton Hill University,2007,215947,42,PA,65373.035,25006,
+Susquehanna University,2007,216278,42,PA,71865.172,29320,1133.4758
+Swarthmore College,2007,216287,42,PA,107819.1,34884,1429.0972
+Thiel College,2007,216357,42,PA,58040.449,20214,946.91461
+Ursinus College,2007,216524,42,PA,78746.07,35160,1207.4706
+Valley Forge Christian College,2007,216542,42,PA,60687.641,12600,
+Villanova University,2007,216597,42,PA,91128.094,33561,1287.0387
+Washington & Jefferson College,2007,216667,42,PA,69287.641,29532,1152.0769
+Waynesburg University,2007,216694,42,PA,62367.418,16420,995
+Westminster College,2007,216807,42,PA,62955.059,25530,1036.373
+Widener University-Main Campus,2007,216852,42,PA,76668.539,28630,990
+Wilkes University,2007,216931,42,PA,80556.18,24080,1055
+Wilson College,2007,217013,42,PA,58238.203,23770,980.96771
+York College Pennsylvania,2007,217059,42,PA,79371.914,12750,1076.7367
+Brown University,2007,217156,44,RI,118016.86,36342,1415.365
+Bryant University,2007,217165,44,RI,104014.61,27639,1148.0796
+Johnson & Wales University-Providence,2007,217235,44,RI,64503.371,21462,
+New England Institute of Technology,2007,217305,44,RI,58739.328,16565,
+Providence College,2007,217402,44,RI,86101.125,29499,1169.0592
+Roger Williams University,2007,217518,44,RI,91839.328,25552,1085
+Salve Regina University,2007,217536,44,RI,74123.594,26950,1105.7631
+Allen University,2007,217624,45,SC,58387.641,9884,
+Anderson University,2007,217633,45,SC,54380.898,17850,988.73193
+Charleston Southern University,2007,217688,45,SC,58749.438,17795,962.36981
+Benedict College,2007,217721,45,SC,53859.551,14010,
+Southern Wesleyan University,2007,217776,45,SC,54843.82,17200,983.97058
+Claflin University,2007,217873,45,SC,59062.922,12358,947.5
+Coker College,2007,217907,45,SC,55417.977,18602,965.32666
+Columbia International University,2007,217925,45,SC,44491.012,15640,1052.3405
+Columbia College,2007,217934,45,SC,54297.754,21650,973.13495
+Converse College,2007,217961,45,SC,46652.809,23344,1086.0714
+Erskine College,2007,217998,45,SC,49656.18,21680,1087.2683
+Furman University,2007,218070,45,SC,83939.328,31560,1274.7944
+Limestone College,2007,218238,45,SC,44889.887,15900,993.52148
+Morris College,2007,218399,45,SC,45384.27,9250,
+Newberry College,2007,218414,45,SC,52728.09,20891,961.7345
+North Greenville University,2007,218441,45,SC,50530.34,11180,1008.6536
+Presbyterian College,2007,218539,45,SC,66487.641,26320,1139.0658
+Voorhees College,2007,218919,45,SC,45212.359,8984,
+Wofford College,2007,218973,45,SC,73765.172,27830,1183.4418
+Augustana College,2007,219000,46,SD,56626.969,21182,1125.1511
+Dakota Wesleyan University,2007,219091,46,SD,48461.797,17600,1001.9231
+Mount Marty College,2007,219198,46,SD,55243.82,17468,1011.6955
+Presentation College,2007,219295,46,SD,43520.227,13290,950
+University of Sioux Falls,2007,219383,46,SD,54649.438,17940,1028.4117
+Aquinas College,2007,219578,47,TN,49440.449,12064,1024.4445
+Belmont University,2007,219709,47,TN,71025.844,19780,1165
+Bethel University,2007,219718,47,TN,45126.969,11690,909.09839
+Bryan College-Dayton,2007,219790,47,TN,51349.438,16320,1123.375
+Carson-Newman University,2007,219806,47,TN,52178.652,16980,1050
+Christian Brothers University,2007,219833,47,TN,57352.809,21360,1121.8905
+Cumberland University,2007,219949,47,TN,46859.551,15550,984.41858
+Lipscomb University,2007,219976,47,TN,65097.754,16811,1106.2844
+Fisk University,2007,220181,47,TN,52506.742,15620,1030.2034
+Welch College,2007,220206,47,TN,44278.652,12382,
+Freed-Hardeman University,2007,220215,47,TN,58196.629,13192,1073.1865
+King University,2007,220516,47,TN,54800,19262,
+Lane College,2007,220598,47,TN,44324.719,7620,760
+Le Moyne-Owen College,2007,220604,47,TN,43049.438,10298,870
+Lee University,2007,220613,47,TN,52986.52,10782,1075.526
+Lincoln Memorial University,2007,220631,47,TN,49423.598,14400,974.32202
+Martin Methodist College,2007,220701,47,TN,49782.023,16554,
+Maryville College,2007,220710,47,TN,67726.969,25350,1094.5337
+Milligan College,2007,221014,47,TN,53503.371,19510,1059.0812
+Rhodes College,2007,221351,47,TN,68633.711,30652,1252.7266
+Sewanee-The University of the South,2007,221519,47,TN,81908.992,30660,1263.2972
+Southern Adventist University,2007,221661,47,TN,46167.418,15596,1029.6077
+Tennessee Wesleyan College,2007,221731,47,TN,44050.563,15550,1010.9804
+Trevecca Nazarene University,2007,221892,47,TN,57340.449,15512,1030
+Tusculum College,2007,221953,47,TN,46512.359,17385,989.32721
+Union University,2007,221971,47,TN,63580.898,18620,1151.1122
+Vanderbilt University,2007,221999,47,TN,113620.23,35276,1390
+Abilene Christian University,2007,222178,48,TX,67825.844,17410,1085.4227
+Amberton University,2007,222628,48,TX,59679.777,6750,
+Austin College,2007,222983,48,TX,76860.672,24920,1200.2854
+Baylor University,2007,223232,48,TX,81106.742,24490,1194.665
+Concordia University-Texas,2007,224004,48,TX,50213.484,18910,989.10992
+Dallas Baptist University,2007,224226,48,TX,65719.102,14490,1028.1063
+University of Dallas,2007,224323,48,TX,61039.328,23267,1201.8464
+East Texas Baptist University,2007,224527,48,TX,54349.438,14680,976.84949
+Hardin-Simmons University,2007,225247,48,TX,62430.34,16946,1035.2816
+Houston Baptist University,2007,225399,48,TX,69274.156,17736,1053.3109
+Howard Payne University,2007,225548,48,TX,48833.707,16030,1027.214
+Huston-Tillotson University,2007,225575,48,TX,54131.461,10038,785.92389
+University of the Incarnate Word,2007,225627,48,TX,69040.453,19060,933.91541
+Jarvis Christian College,2007,225885,48,TX,41565.168,8208,
+LeTourneau University,2007,226231,48,TX,58208.988,17910,1154.2545
+Lubbock Christian University,2007,226383,48,TX,51807.867,14290,976.3158
+University of Mary Hardin-Baylor,2007,226471,48,TX,62737.078,17700,1021.2786
+McMurry University,2007,226587,48,TX,55207.867,16800,951.24689
+Our Lady of the Lake University,2007,227331,48,TX,67433.711,19116,913.31042
+Paul Quinn College,2007,227429,48,TX,37562.922,8970,1132.5
+Rice University,2007,227757,48,TX,116484.27,27138,1410
+Saint Edward's University,2007,227845,48,TX,72950.563,20400,1120.3591
+University of St Thomas,2007,227863,48,TX,76925.844,19070,1142.6072
+Schreiner University,2007,228042,48,TX,51901.125,17008,982.51007
+St Mary's University,2007,228149,48,TX,81753.938,21500,1036.7012
+Southern Methodist University,2007,228246,48,TX,98104.492,30880,1228.0724
+Southwestern Assemblies of God University,2007,228325,48,TX,46811.238,11530,
+Southwestern University,2007,228343,48,TX,75582.023,25740,1224.1455
+Southwestern Adventist University,2007,228468,48,TX,44303.934,14284,935.2804
+Southwestern Christian College,2007,228486,48,TX,32985.395,6185,
+Texas Christian University,2007,228875,48,TX,86770.789,24868,1162.1825
+Texas College,2007,228884,48,TX,37505.617,8746,
+Texas Lutheran University,2007,228981,48,TX,59482.023,20060,1016.2378
+Texas Wesleyan University,2007,229160,48,TX,79440.453,15775,954.74701
+Trinity University,2007,229267,48,TX,87530.336,25022,1296.4976
+Wayland Baptist University,2007,229780,48,TX,50511.238,11250,940.76086
+Wiley College,2007,229887,48,TX,46393.258,9400,
+Brigham Young University-Provo,2007,230038,49,UT,98962.922,3840,1242.308
+Brigham Young University-Hawaii,2007,230047,15,HI,88764.047,3250,1074.9832
+Westminster College,2007,230807,49,UT,71576.406,22374,1095.0583
+Bennington College,2007,230816,50,VT,71239.328,36800,1225
+Burlington College,2007,230825,50,VT,35841.574,18350,
+Champlain College,2007,230852,50,VT,64186.52,22550,1099.7732
+Goddard College,2007,230889,50,VT,48246.066,12630,
+Green Mountain College,2007,230898,50,VT,54880.898,24565,
+Marlboro College,2007,230940,50,VT,57016.855,30680,1212.5
+Middlebury College,2007,230959,50,VT,101989.89,,1375
+Norwich University,2007,230995,50,VT,70179.773,24430,1033.1453
+Saint Michael's College,2007,231059,50,VT,81346.07,29945,1129.6752
+SIT Graduate Institute,2007,231068,50,VT,55832.586,,
+College of St Joseph,2007,231077,50,VT,43896.629,15760,915.33331
+Southern Vermont College,2007,231086,50,VT,47119.102,16800,893.40662
+Sterling College,2007,231095,50,VT,28365.17,19375,
+Averett University,2007,231420,51,VA,57393.258,20512,900.0896
+Bluefield College,2007,231554,51,VA,46532.586,13180,928.25
+Bridgewater College,2007,231581,51,VA,59624.719,21490,1008.5531
+Regent University,2007,231651,51,VA,73222.477,10230,1050
+Emory & Henry College,2007,232025,51,VA,58548.316,22320,1020.8074
+Eastern Mennonite University,2007,232043,51,VA,54196.629,21960,1069.1216
+Ferrum College,2007,232089,51,VA,52829.215,20930,890
+Hampden-Sydney College,2007,232256,51,VA,72149.438,27732,1117.8928
+Hampton University,2007,232265,51,VA,60151.688,15610,1045.0527
+Hollins University,2007,232308,51,VA,68815.734,25645,1102.6954
+Liberty University,2007,232557,51,VA,61858.43,15800,979.18579
+Lynchburg College,2007,232609,51,VA,65720.227,27215,1015.2153
+Mary Baldwin College,2007,232672,51,VA,67507.867,22730,1040.3102
+Marymount University,2007,232706,51,VA,73616.852,20410,1002.5443
+Randolph-Macon College,2007,233295,51,VA,70155.055,26830,1065.1765
+Randolph College,2007,233301,51,VA,66671.914,25860,1125
+University of Richmond,2007,233374,51,VA,95114.609,35718,1288.1396
+Roanoke College,2007,233426,51,VA,61980.898,26250,1080.9894
+Saint Pauls College,2007,233499,51,VA,39986.516,12020,727.33868
+Shenandoah University,2007,233541,51,VA,70619.102,22340,990.80084
+Southern Virginia University,2007,233611,51,VA,54160.676,16500,1050
+Sweet Briar College,2007,233718,51,VA,62460.676,25015,1091.9456
+Virginia Intermont College,2007,233912,51,VA,43687.641,21200,950
+Virginia Union University,2007,234164,51,VA,51546.066,13394,
+Virginia Wesleyan College,2007,234173,51,VA,67057.305,24515,962.25513
+Washington and Lee University,2007,234207,51,VA,99853.938,35445,1365.0111
+City University of Seattle,2007,234915,53,WA,53970.789,11800,
+Gonzaga University,2007,235316,53,WA,76688.766,26558,1188.2954
+Heritage University,2007,235422,53,WA,51992.137,9055,
+Trinity Lutheran College,2007,235769,53,WA,52124.719,14170,958.21429
+Northwest University,2007,236133,53,WA,59329.215,19780,1002.381
+Pacific Lutheran University,2007,236230,53,WA,66795.508,25088,1116.6832
+University of Puget Sound,2007,236328,53,WA,82777.531,31895,1238.4178
+Saint Martin's University,2007,236452,53,WA,59749.438,22450,994.10529
+Seattle Pacific University,2007,236577,53,WA,71291.016,25128,1142.3843
+Seattle University,2007,236595,53,WA,82846.07,26325,1163.5967
+Walla Walla University,2007,236896,53,WA,56616.855,21114,1070
+Whitman College,2007,237057,53,WA,80131.461,32980,1331.2782
+Whitworth University,2007,237066,53,WA,69540.453,25692,1211.0925
+Alderson Broaddus University,2007,237118,54,WV,42994.383,20030,984.46021
+Bethany College,2007,237181,54,WV,52829.215,18203,996.25848
+University of Charleston,2007,237312,54,WV,61023.598,22050,1036.5546
+Davis & Elkins College,2007,237358,54,WV,47794.383,18746,932.36108
+Ohio Valley University,2007,237640,54,WV,41604.496,15990,995.03906
+West Virginia Wesleyan College,2007,237969,54,WV,53408.988,21830,1032.7255
+Wheeling Jesuit University,2007,238078,54,WV,57637.078,23490,1032.3102
+Alverno College,2007,238193,55,WI,57475.281,17296,930
+Beloit College,2007,238333,55,WI,64114.609,29908,1253.4924
+Cardinal Stritch University,2007,238430,55,WI,57543.82,19074,1008.0883
+Carroll University,2007,238458,55,WI,58720.227,20900,1090
+Carthage College,2007,238476,55,WI,67715.734,25000,1070.6047
+Concordia University-Wisconsin,2007,238616,55,WI,63862.922,19040,1030
+Edgewood College,2007,238661,55,WI,62457.305,19080,1010
+Lakeland College,2007,238980,55,WI,61766.293,17595,950.74866
+Lawrence University,2007,239017,55,WI,64426.969,31080,
+Maranatha Baptist University,2007,239071,55,WI,43374.156,9486,1009.0351
+Marian University,2007,239080,55,WI,63441.574,18680,950
+Marquette University,2007,239105,55,WI,88482.023,26678,1203.0256
+Milwaukee School of Engineering,2007,239318,55,WI,77853.938,25980,1169.2079
+Mount Mary University,2007,239390,55,WI,55405.617,19205,930
+Northland International University,2007,239503,55,WI,23289.889,10530,
+Northland College,2007,239512,55,WI,49864.047,21901,1125
+Ripon College,2007,239628,55,WI,59008.988,23323,1103.4728
+Saint Norbert College,2007,239716,55,WI,66022.477,24653,1125
+Silver Lake College of the Holy Family,2007,239743,55,WI,40587.641,18320,910
+Viterbo University,2007,240107,55,WI,59092.137,18590,1030
+Wisconsin Lutheran College,2007,240338,55,WI,55589.887,19564,1127.4457
+Stanford University,2007,243744,6,CA,129514.61,35089,1445
+City College-Fort Lauderdale,2007,244233,12,FL,47994.383,10360,
+St John's College,2007,245652,35,NM,84310.117,36596,
+Antioch University-Los Angeles,2007,245838,6,CA,55885.395,20156,
+Antioch University-Santa Barbara,2007,245847,6,CA,56795.508,14666,
+Antioch University-New England,2007,245865,33,NH,51100,,
+Antioch University-Seattle,2007,245883,53,WA,49760.676,16305,
+Antioch University-Midwest,2007,245892,39,OH,56921.348,14034,
+Mid-America Christian University,2007,245953,40,OK,52157.305,11950,
+Brandman University,2007,262086,6,CA,72680.898,8099,
+Mayo Graduate School,2007,365426,27,MN,,,
+Hodges University,2007,367884,12,FL,50995.508,10580,
+Baker College of Port Huron,2007,381617,26,MI,46386.52,6660,
+Beacon College,2007,384254,12,FL,52704.496,25050,
+Everglades University,2007,385619,12,FL,43538.203,11720,
+Soka University of America,2007,399911,6,CA,89167.414,22108,1222.2278
+Baker College of Auburn Hills,2007,404073,26,MI,49044.945,6660,
+Baker College of Clinton Township,2007,404082,26,MI,49848.316,6660,
+Baker College of Cadillac,2007,404648,26,MI,46012.359,6660,
+City College-Gainesville,2007,406547,12,FL,34341.574,8530,
+Baker College of Jackson,2007,414160,26,MI,45200,6730,
+Baker College Center for Graduate Studies,2007,414708,26,MI,73913.484,8880,
+Johnson & Wales University-North Miami,2007,414823,12,FL,57430.34,21462,
+Trine University-Regional/Non-Traditional Campuses,2007,414878,18,IN,,6912,
+Ottawa University-Milwaukee,2007,428259,55,WI,50953.934,7800,
+Western Governors University,2007,433387,49,UT,46132.586,5670,
+Michigan Jewish Institute,2007,434414,26,MI,,10280,
+City College-Miami,2007,434539,12,FL,32866.293,10270,
+Linfield College-Adult Degree Program,2007,437325,41,OR,,8505,
+Johnson & Wales University-Denver,2007,439288,8,CO,56096.629,21462,
+New Saint Andrews College,2007,440396,16,ID,,7200,1215.3279
+Marlboro College-Graduate School,2007,440411,50,VT,,11880,
+International Technological University,2007,443128,6,CA,,,
+Baker College of Allen Park,2007,444167,26,MI,47389.887,6660,
+Flagler College-Tallahassee,2007,444990,12,FL,61359.551,4599,
+Central Methodist University-College of Graduate and Extended Studies,2007,445267,29,MO,38093.258,5250,
+Johnson & Wales University-Charlotte,2007,445708,37,NC,56911.238,21462,
+Ave Maria University,2007,446048,12,FL,63367.418,16255,1149.7659
+Harrisburg University of Science and Technology,2007,446640,42,PA,66202.25,14000,
+Union Graduate College,2007,446932,36,NY,82278.656,,
+Doane College-Lincoln Grand Island and Master,2007,448284,31,NE,46964.047,4686,
+Shorter University-College of Adult & Professional Programs,2007,448309,13,GA,61647.191,8866,
+The Robert B Miller College,2007,448804,26,MI,48828.09,8250,
+University of the West,2007,449870,6,CA,37298.879,7200,
+Averett University-Non-Traditional Programs,2007,449931,51,VA,52994.383,,
+LIU Riverhead,2007,450766,36,NY,68473.031,,
+The King’s College,2007,454184,36,NY,,,
+Ottawa University-Online,2007,454582,20,KS,,,
+Providence Christian College,2007,455770,6,CA,,,
+Polytechnic University of Puerto Rico-Orlando,2007,456490,12,FL,,,
